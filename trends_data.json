@@ -1,0 +1,1330 @@
+{
+  "schema": "telco-landscape/trends@1",
+  "updated": "2026-10-23",
+  "about": "Emerging trends shown on the Telco Capability Landscape. Each trend lights up the blocks domain|aspect for every aspect listed.",
+  "domains": [
+    "Market",
+    "Sales",
+    "Customer",
+    "Product",
+    "Service",
+    "Resource",
+    "Ecosystem",
+    "Enterprise",
+    "Generic"
+  ],
+  "aspects": [
+    "Intention",
+    "Insight",
+    "Planning",
+    "Engagement",
+    "Environment",
+    "Fulfillment",
+    "Assurance",
+    "Accounting"
+  ],
+  "trends": [
+    {
+      "id": "mkt-consolidation-scale",
+      "domain": "Market",
+      "title": "In-market and cross-border consolidation enabled by revised EU merger rules",
+      "description": "The Commission's draft merger guidelines (published 30 April 2026, final adoption targeted for Q4 2027) state that transactions bringing scale and consolidation 'can be viewed positively' and add investment and resilience as assessment factors. Connect Europe links Europe's weak returns to fragmentation, with 44 mobile operators above 500,000 subscribers in Europe against 8 in the USA. Operators need M&A scenario modelling, synergy tracking, and repeatable IT/BSS carve-in and carve-out capabilities.",
+      "keywords": [
+        "M&A",
+        "consolidation",
+        "mergers",
+        "EU merger guidelines",
+        "market structure",
+        "carve-out",
+        "IT integration",
+        "regulation"
+      ],
+      "aspects": [
+        "Intention",
+        "Insight",
+        "Planning"
+      ],
+      "solution_areas": [
+        "Strategy and portfolio management",
+        "Market and competitive intelligence",
+        "M&A IT integration / carve-out factory",
+        "Application portfolio rationalisation"
+      ],
+      "sources": [
+        {
+          "title": "Latham & Watkins - New Draft EU Merger Guidelines: What Businesses Need to Know (May 2026)",
+          "url": "https://www.lw.com/en/insights/2026/05/new-draft-eu-merger-guidelines-what-businesses-need-to-know"
+        },
+        {
+          "title": "Connect Europe - State of Digital Communications 2026",
+          "url": "https://connecteurope.org/insights/reports/state-digital-communications-2026"
+        }
+      ]
+    },
+    {
+      "id": "mkt-dna-single-market",
+      "domain": "Market",
+      "title": "Digital Networks Act: single-market passport and spectrum reform reshape market entry",
+      "description": "The Commission proposed the Digital Networks Act on 21 January 2026. It includes an EU-wide single authorisation with a notification 'passport' to operate in other Member States, spectrum rights unlimited in duration (with exceptions) plus sharing obligations, and an EU-level satellite regime. This opens pan-EU service propositions. Operators need regulatory-change tracking, multi-country market planning, and a spectrum asset strategy.",
+      "keywords": [
+        "Digital Networks Act",
+        "DNA",
+        "EU regulation",
+        "spectrum",
+        "single market",
+        "pan-EU services",
+        "regulatory compliance",
+        "policy"
+      ],
+      "aspects": [
+        "Intention",
+        "Planning",
+        "Insight",
+        "Assurance"
+      ],
+      "solution_areas": [
+        "Regulatory compliance management",
+        "Market planning and segmentation",
+        "Spectrum management",
+        "Multi-country product localisation"
+      ],
+      "sources": [
+        {
+          "title": "Covington Inside Privacy - Seven major changes in the European Commission's proposal for an EU Digital Networks Act",
+          "url": "https://www.insideprivacy.com/data-security/seven-major-changes-in-the-european-commissions-proposal-for-an-eu-digital-networks-act/"
+        },
+        {
+          "title": "Jones Day - European Commission publishes proposal for a Regulation for the Digital Networks Act",
+          "url": "https://www.jonesday.com/de/insights/2026/02/european-commission-publishes-proposal-for-a-regulation-for-the-digital-networks-act"
+        }
+      ]
+    },
+    {
+      "id": "mkt-arpu-pressure-convergence",
+      "domain": "Market",
+      "title": "ARPU pressure drives fixed-mobile convergence and 'beyond quad-play' bundles",
+      "description": "Connect Europe reports GDP-adjusted mobile ARPU of EUR 14.9 in 2024, down 2.4% year on year and below EUR 15.3 in 2015. GSMA Intelligence identifies Europe as the lead FMC region, as operators look for growth beyond quad play. Operators need household/converged customer views, bundle economics analytics, and churn and next-best-offer modelling across fixed, mobile and digital services.",
+      "keywords": [
+        "ARPU",
+        "fixed-mobile convergence",
+        "FMC",
+        "bundles",
+        "quad play",
+        "churn",
+        "pricing",
+        "household view",
+        "next best offer"
+      ],
+      "aspects": [
+        "Insight",
+        "Planning",
+        "Engagement",
+        "Accounting"
+      ],
+      "solution_areas": [
+        "Customer analytics / CDP",
+        "Converged product and offer management",
+        "Churn and propensity models",
+        "Revenue and margin analytics"
+      ],
+      "sources": [
+        {
+          "title": "Connect Europe - State of Digital Communications 2026",
+          "url": "https://connecteurope.org/insights/reports/state-digital-communications-2026"
+        },
+        {
+          "title": "GSMA Intelligence - FMC: Europe continues to lead as operators seek new growth beyond quad play",
+          "url": "https://www.gsmaintelligence.com/research/fmc-europe-continues-to-lead-as-operators-seek-new-growth-beyond-quad-play"
+        }
+      ]
+    },
+    {
+      "id": "mkt-genai-hyperpersonalisation",
+      "domain": "Market",
+      "title": "GenAI-driven hyper-personalisation ('segment of one') marketing",
+      "description": "Analysts describe a move from segment-based campaigns to individual-level personalisation. McKinsey cites a European telco whose GenAI upselling efforts raised ARPU by 5-15%, depending on segment. This requires real-time customer data, AI content generation subject to EU AI Act labelling, and closed-loop campaign measurement.",
+      "keywords": [
+        "GenAI",
+        "personalisation",
+        "segment of one",
+        "marketing automation",
+        "customer data platform",
+        "CDP",
+        "next best action",
+        "campaigns",
+        "AI Act",
+        "digital channels"
+      ],
+      "aspects": [
+        "Insight",
+        "Engagement",
+        "Planning",
+        "Environment"
+      ],
+      "solution_areas": [
+        "Real-time CDP / customer data platform",
+        "Marketing automation and journey orchestration",
+        "GenAI content generation",
+        "Next-best-action engine"
+      ],
+      "sources": [
+        {
+          "title": "Analysys Mason - 'Segment of one': how CSPs can achieve hyper-personalisation",
+          "url": "https://www.analysysmason.com/research/content/short-reports/segment-of-one-personalisation-rma11"
+        },
+        {
+          "title": "McKinsey - Scaling the AI-native telco",
+          "url": "https://www.mckinsey.com/~/media/mckinsey/industries/technology%20media%20and%20telecommunications/telecommunications/our%20insights/scaling%20the%20ai%20native%20telco/scaling-the-ai-native-telco.pdf"
+        }
+      ]
+    },
+    {
+      "id": "sales-agentic-commerce-cpq",
+      "domain": "Sales",
+      "title": "Agent-led commerce and B2B CPQ",
+      "description": "BSS vendors now ship agent-driven sales journeys. For example, Amdocs' CES26 (MWC 2026) includes agent-led commerce and ordering, B2B sales and CPQ, and composable commerce for any bundle or promotion. Operators need conversational and agentic quoting, guided solution design for complex B2B deals, and guardrails on pricing authority.",
+      "keywords": [
+        "agentic AI",
+        "AI agents",
+        "CPQ",
+        "configure price quote",
+        "B2B sales",
+        "quote to order",
+        "e-commerce",
+        "digital channels",
+        "conversational commerce"
+      ],
+      "aspects": [
+        "Engagement",
+        "Fulfillment",
+        "Environment"
+      ],
+      "solution_areas": [
+        "CPQ / B2B quote management",
+        "Agentic AI platform",
+        "Composable commerce / digital storefront",
+        "Sales force automation"
+      ],
+      "sources": [
+        {
+          "title": "Amdocs - MWC 2026: Amdocs Unveils CES26, an Agent-driven BSS-OSS-Network Suite",
+          "url": "https://www.nasdaq.com/press-release/mwc-2026-amdocs-unveils-ces26-agent-driven-bss-oss-network-suite-powered-amdocs-aos"
+        },
+        {
+          "title": "Comviva - The future of telecom sales and distribution: key trends for 2026",
+          "url": "https://www.comviva.com/blog/the-future-of-telecom-sales-and-distribution-key-trends-for-2026/"
+        }
+      ]
+    },
+    {
+      "id": "sales-digital-channel-shift",
+      "domain": "Sales",
+      "title": "Retail footprint reduction and shift to digital and AI-assisted sales channels",
+      "description": "Operators are shrinking physical retail as AI and digital channels take over. In July 2026, O2 Germany confirmed it will close 60 shops (about 8% of roughly 800) as it shifts to digital sales. This raises the need for omnichannel order capture, digital onboarding and eKYC, and consistent offer and price execution across fewer assisted touchpoints.",
+      "keywords": [
+        "digital channels",
+        "retail stores",
+        "shop closures",
+        "omnichannel",
+        "e-commerce",
+        "digital onboarding",
+        "eKYC",
+        "AI-assisted sales",
+        "self-service"
+      ],
+      "aspects": [
+        "Engagement",
+        "Fulfillment",
+        "Insight"
+      ],
+      "solution_areas": [
+        "Omnichannel commerce",
+        "Digital onboarding / eKYC",
+        "Channel and partner (dealer) management",
+        "Sales performance analytics"
+      ],
+      "sources": [
+        {
+          "title": "DCD - Telefonica Germany confirms plans to cut 1,100 jobs as AI processes take shape (Jul 2026)",
+          "url": "https://www.datacenterdynamics.com/en/news/telef%C3%B3nica-germany-confirms-plans-to-cut-1100-jobs-as-ai-processes-take-shape/"
+        }
+      ]
+    },
+    {
+      "id": "sales-b2b-solution-selling",
+      "domain": "Sales",
+      "title": "B2B solution selling shifts from private 5G campus to sovereign cloud/AI and vertical bundles",
+      "description": "Omdia analysis reports that Ericsson and Nokia are retreating from enterprise private-5G campus offers, with Nokia refocusing on AI and mission-critical verticals. Meanwhile, operators such as Deutsche Telekom/T-Systems sell packaged sovereign cloud and AI (consulting, implementation, licensing, hosting, operations) to regulated enterprises. Sales capabilities must support multi-component solution design, partner-sourced elements and opportunity management for long-cycle deals.",
+      "keywords": [
+        "B2B",
+        "enterprise sales",
+        "solution selling",
+        "private 5G",
+        "campus networks",
+        "sovereign cloud",
+        "vertical solutions",
+        "industry bundles"
+      ],
+      "aspects": [
+        "Engagement",
+        "Planning",
+        "Fulfillment"
+      ],
+      "solution_areas": [
+        "B2B opportunity and solution design",
+        "CPQ",
+        "Partner/marketplace management",
+        "Contract and SLA management"
+      ],
+      "sources": [
+        {
+          "title": "Omdia - Nokia exits enterprise campus to double down on AI and mission critical verticals (search result)",
+          "url": "https://omdia.tech.informa.com/om148274/nokia-exits-enterprise-campus-to-double-down-on-ai-and-mission-critical-verticals"
+        },
+        {
+          "title": "Converge Digest - Deutsche Telekom expands sovereign Industrial AI Cloud",
+          "url": "https://convergedigest.com/deutsche-telekom-expands-sovereign-industrial-ai-cloud/"
+        }
+      ]
+    },
+    {
+      "id": "cust-agentic-care",
+      "domain": "Customer",
+      "title": "Agentic AI and voice agents in customer care",
+      "description": "Customer service is the leading area for AI agents. McKinsey reports that about 75% of executives focused on customer service aim to use agents there, and that an AI help-desk bot cut cost per call by 35% and raised resolution rates by 60%. Orange's 'Sharlie' voice assistant (analysed by Omdia) shows AI agents becoming the front of the brand. Operators need agent orchestration across care, billing and technical support, escalation to humans, and conversation analytics.",
+      "keywords": [
+        "agentic AI",
+        "AI agents",
+        "voice agents",
+        "customer care",
+        "contact centre",
+        "chatbot",
+        "virtual assistant",
+        "self-service",
+        "digital channels",
+        "customer experience"
+      ],
+      "aspects": [
+        "Engagement",
+        "Assurance",
+        "Insight",
+        "Fulfillment"
+      ],
+      "solution_areas": [
+        "Agentic AI platform",
+        "Contact centre / conversational AI",
+        "Knowledge management",
+        "Trouble ticket management",
+        "Interaction analytics"
+      ],
+      "sources": [
+        {
+          "title": "McKinsey - Scaling the AI-native telco",
+          "url": "https://www.mckinsey.com/~/media/mckinsey/industries/technology%20media%20and%20telecommunications/telecommunications/our%20insights/scaling%20the%20ai%20native%20telco/scaling-the-ai-native-telco.pdf"
+        },
+        {
+          "title": "Omdia - When AI speaks for a telco: Orange's Sharlie signals the rise of AI voice agents in customer care",
+          "url": "https://omdia.tech.informa.com/om147026/when-ai-speaks-for-a-telco-oranges-sharlie-signals-the-rise-of-ai-voice-agents-in-customer-care"
+        }
+      ]
+    },
+    {
+      "id": "cust-ai-act-transparency",
+      "domain": "Customer",
+      "title": "EU AI Act transparency obligations for chatbots, agents and synthetic content",
+      "description": "Since 2 August 2026, Article 50 of the AI Act requires providers to tell users when they are interacting with AI. It also requires machine-readable marking of AI-generated audio, image, video and text, with a transition to 2 December 2026 for generative systems already on the market. Customer-facing channels need AI disclosure, content watermarking and auditable interaction logs.",
+      "keywords": [
+        "EU AI Act",
+        "AI regulation",
+        "transparency",
+        "chatbot disclosure",
+        "synthetic content labelling",
+        "compliance",
+        "responsible AI"
+      ],
+      "aspects": [
+        "Engagement",
+        "Assurance",
+        "Environment"
+      ],
+      "solution_areas": [
+        "AI governance and compliance",
+        "Conversational AI platform",
+        "Content provenance / watermarking",
+        "Consent and interaction logging"
+      ],
+      "sources": [
+        {
+          "title": "Cooley - EU AI Act: Transparency Obligations Take Effect 2 August 2026",
+          "url": "https://www.cooley.com/news/insight/2026/2026-08-03-eu-ai-act-transparency-obligations-take-effect-2-august-2026"
+        }
+      ]
+    },
+    {
+      "id": "cust-scam-fraud-protection",
+      "domain": "Customer",
+      "title": "Scam and social-engineering fraud protection as a customer and B2B service",
+      "description": "GSMA's Scam Signal API passes real-time network intelligence to banks to stop authorised push payment fraud, which caused GBP 450.7m of UK losses in 2024. It is live across UK networks covering 85% of mobile users, and deploying banks report detection improvements of up to 40%. In 2026, Cifas joined the Global Signal Exchange to support UK telecoms providers. Operators need real-time fraud analytics, scam call and SMS filtering, and secure data-sharing interfaces.",
+      "keywords": [
+        "fraud",
+        "scams",
+        "SIM swap",
+        "Scam Signal",
+        "APP fraud",
+        "banks",
+        "network APIs",
+        "security",
+        "customer protection"
+      ],
+      "aspects": [
+        "Assurance",
+        "Insight",
+        "Engagement"
+      ],
+      "solution_areas": [
+        "Fraud management system",
+        "Real-time network analytics",
+        "Network API exposure (Scam Signal, SIM Swap)",
+        "Spam/scam call and SMS filtering"
+      ],
+      "sources": [
+        {
+          "title": "GSMA - Scam Signal: Telcos Worldwide Join Forces Against Social Engineering Fraud",
+          "url": "https://www.gsma.com/solutions-and-impact/technologies/security/scams/gsma_study/scam-signal/"
+        },
+        {
+          "title": "ISPreview - Cifas joins Global Signal Exchange to help UK telecoms providers tackle scams (Jul 2026)",
+          "url": "https://www.ispreview.co.uk/index.php/2026/07/cifas-joins-global-signal-exchange-to-help-uk-telecoms-providers-tackle-scams.html"
+        }
+      ]
+    },
+    {
+      "id": "cust-impact-driven-assurance",
+      "domain": "Customer",
+      "title": "Customer-impact-driven assurance and proactive SLA compensation",
+      "description": "TM Forum's Project ONE (agentic ODA) prioritises incidents by customer impact rather than network severity alone. Its demo scenario has an agent detect an unmet SME SLA, open a ticket and arrange compensation autonomously up to a set limit (USD 50 in the example), with human approval above that. This calls for linking customer, service and network data and for automated, policy-bound remediation.",
+      "keywords": [
+        "service assurance",
+        "customer experience",
+        "SLA",
+        "proactive care",
+        "compensation",
+        "customer impact",
+        "experience index"
+      ],
+      "aspects": [
+        "Assurance",
+        "Engagement",
+        "Accounting",
+        "Insight"
+      ],
+      "solution_areas": [
+        "Customer experience management",
+        "SLA management",
+        "Trouble ticket management",
+        "Agentic AI platform",
+        "Billing adjustments"
+      ],
+      "sources": [
+        {
+          "title": "TM Forum Inform - Project ONE aims to deliver agentic ODA",
+          "url": "https://inform.tmforum.org/features-and-opinion/project-one-aims-to-deliver-agentic-oda"
+        }
+      ]
+    },
+    {
+      "id": "prod-genai-catalog",
+      "domain": "Product",
+      "title": "GenAI / intent-driven product catalog and offer design",
+      "description": "Vendors are adding agents that generate catalog entries, charging logic and provisioning workflows from business intent (Ericsson). Multi-agent AI is also being applied to telco product configuration. This shortens product time to market, but it depends on a clean, model-driven, TMF-aligned catalog (product, service and resource specifications), on validation, and on governance of AI-authored offers.",
+      "keywords": [
+        "product catalog",
+        "GenAI",
+        "offer design",
+        "intent-based",
+        "time to market",
+        "pricing",
+        "product lifecycle"
+      ],
+      "aspects": [
+        "Environment",
+        "Planning",
+        "Intention"
+      ],
+      "solution_areas": [
+        "Product catalog management",
+        "Offer design studio (low-code)",
+        "Agentic AI platform",
+        "Rating/charging configuration"
+      ],
+      "sources": [
+        {
+          "title": "RCR Wireless - Ericsson AI agents across the OSS/BSS stack (Jun 2026)",
+          "url": "https://www.rcrwireless.com/20260626/ai/ericsson-ai-agents-oss-bss-stack"
+        },
+        {
+          "title": "Ericsson - How multi-agent AI is transforming telco product configuration",
+          "url": "https://www.ericsson.com/en/blog/2025/6/how-multi-agent-ai-is-transforming-telco-product-configuration"
+        }
+      ]
+    },
+    {
+      "id": "prod-5gsa-differentiated-connectivity",
+      "domain": "Product",
+      "title": "5G SA monetisation: differentiated connectivity, slicing and QoD products",
+      "description": "Opensignal (Q1 2026, 29 markets) finds that 5G users in Europe spend only 1.8% of connection time on 5G SA. Operators that made SA the default without a premium tariff have the highest SA shares, while those selling it as premium or enterprise remain in single to low double digits. On the 11 'at scale' operators, SA delivers about 18% faster downloads (180.2 vs 153.2 Mbps) and about 17% lower latency. Product teams need slice- and QoS-tier offers, SLA-backed B2B products, and a pricing strategy.",
+      "keywords": [
+        "5G standalone",
+        "5G SA",
+        "network slicing",
+        "quality on demand",
+        "QoD",
+        "monetisation",
+        "differentiated connectivity",
+        "premium tariffs"
+      ],
+      "aspects": [
+        "Planning",
+        "Environment",
+        "Accounting",
+        "Intention"
+      ],
+      "solution_areas": [
+        "Product catalog management",
+        "5G convergent charging",
+        "SLA management",
+        "Network slice product design"
+      ],
+      "sources": [
+        {
+          "title": "Opensignal - 5G Standalone in Europe: where deployment stands (Jun 2026)",
+          "url": "https://insights.opensignal.com/2026/06/5g-standalone-in-europe-where-deployment-stands-and-what-it-means-for-users-june-2026/dt"
+        },
+        {
+          "title": "S&P Global - MWC 2026: Can the industry sell network experiences?",
+          "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/04/mobile-world-congress-2026-can-the-industry-sell-network-experiences"
+        }
+      ]
+    },
+    {
+      "id": "prod-d2d-satellite",
+      "domain": "Product",
+      "title": "Direct-to-device satellite connectivity as a product extension",
+      "description": "Vodafone and AST SpaceMobile launched Satellite Connect Europe (formerly SatCo, headquartered in Luxembourg) on 27 February 2026 to provide D2D services wholesale to European MNOs. In the UK, VMO2 has launched a D2D service with Starlink. Operators need satellite add-on products, coverage-aware eligibility, roaming-like charging, and integration of non-terrestrial network partners.",
+      "keywords": [
+        "satellite",
+        "direct to device",
+        "D2D",
+        "NTN",
+        "coverage",
+        "rural connectivity",
+        "new products"
+      ],
+      "aspects": [
+        "Planning",
+        "Environment",
+        "Accounting"
+      ],
+      "solution_areas": [
+        "Product catalog management",
+        "Partner/wholesale settlement",
+        "Convergent charging",
+        "NTN integration"
+      ],
+      "sources": [
+        {
+          "title": "TelecomTV - Vodafone-backed SatCo becomes Satellite Connect Europe, begins ground station build",
+          "url": "https://www.telecomtv.com/content/access-evolution/vodafone-backed-satco-becomes-satellite-connect-europe-begins-ground-station-build-54947/amp/"
+        }
+      ]
+    },
+    {
+      "id": "prod-sovereign-cloud-ai-portfolio",
+      "domain": "Product",
+      "title": "Sovereign cloud and AI factory offers in the B2B portfolio",
+      "description": "European operators are productising sovereign compute and AI. Deutsche Telekom's Munich Industrial AI Cloud has about 10,000 NVIDIA GPUs (with SAP and Siemens as partners), and T-Systems is a Sovereign Partner Cloud provider for ServiceNow in Germany. Connect Europe notes business demand for 'sovereign data capacity' and reports that telcos owned around 19% of European data centres in 2025. Product capabilities must cover IT/cloud/AI services alongside connectivity, with usage-based pricing.",
+      "keywords": [
+        "sovereign cloud",
+        "AI factory",
+        "GPU",
+        "data centres",
+        "B2B portfolio",
+        "edge cloud",
+        "AI infrastructure"
+      ],
+      "aspects": [
+        "Planning",
+        "Environment",
+        "Accounting",
+        "Intention"
+      ],
+      "solution_areas": [
+        "Cloud/IT service catalog",
+        "Usage-based billing for compute/GPU",
+        "B2B marketplace",
+        "Data centre and capacity management"
+      ],
+      "sources": [
+        {
+          "title": "Converge Digest - Deutsche Telekom expands sovereign Industrial AI Cloud (Mar 2026)",
+          "url": "https://convergedigest.com/deutsche-telekom-expands-sovereign-industrial-ai-cloud/"
+        },
+        {
+          "title": "Connect Europe - State of Digital Communications 2026",
+          "url": "https://connecteurope.org/insights/reports/state-digital-communications-2026"
+        }
+      ]
+    },
+    {
+      "id": "svc-intent-based-orchestration",
+      "domain": "Service",
+      "title": "Intent-based service management and orchestration",
+      "description": "TM Forum's intent APIs (TMF921 Intent Management) and Catalyst projects position intent as the interface between business, service and network layers in autonomous operations. Telefónica Germany's JARVIS agentic fabric explicitly uses TMF921. Operators need intent handlers, service models that can be decomposed, and orchestration that turns intents into resource actions and reports back on how well they are fulfilled.",
+      "keywords": [
+        "intent-based",
+        "orchestration",
+        "TMF921",
+        "service management",
+        "automation",
+        "zero touch",
+        "OSS"
+      ],
+      "aspects": [
+        "Intention",
+        "Fulfillment",
+        "Environment",
+        "Assurance"
+      ],
+      "solution_areas": [
+        "Service orchestration",
+        "Intent management",
+        "Service catalog / inventory",
+        "TM Forum Open APIs"
+      ],
+      "sources": [
+        {
+          "title": "TM Forum Inform - Intent APIs are key to cost-effective autonomous networks and digital transformation",
+          "url": "https://inform.tmforum.org/research-and-analysis/proofs-of-concept/intent-apis-are-key-to-cost-effective-autonomous-networks-and-digital-transformation/"
+        },
+        {
+          "title": "Hansen - Agentic AI governance in telecoms: Telefonica Germany",
+          "url": "https://www.hansencx.com/insights/agentic-ai-governance-telecoms-telefonica-germany-hansen/"
+        }
+      ]
+    },
+    {
+      "id": "svc-agentic-closed-loop-assurance",
+      "domain": "Service",
+      "title": "Agentic closed-loop service assurance and order fallout self-healing",
+      "description": "Suites now ship agents for closed-loop assurance, multi-vendor ticket triage and root-cause analysis (Ericsson), and for preemptive order fallout detection and self-healing (Amdocs CES26). Operators need service-impact correlation, topology-aware RCA and automated remediation, with audit trails.",
+      "keywords": [
+        "agentic AI",
+        "closed-loop",
+        "service assurance",
+        "self-healing",
+        "order fallout",
+        "AIOps",
+        "automation",
+        "OSS"
+      ],
+      "aspects": [
+        "Assurance",
+        "Fulfillment",
+        "Insight"
+      ],
+      "solution_areas": [
+        "Service assurance / AIOps",
+        "Order management",
+        "Trouble ticket management",
+        "Service inventory / topology"
+      ],
+      "sources": [
+        {
+          "title": "RCR Wireless - Ericsson AI agents across the OSS/BSS stack (Jun 2026)",
+          "url": "https://www.rcrwireless.com/20260626/ai/ericsson-ai-agents-oss-bss-stack"
+        },
+        {
+          "title": "Amdocs - MWC 2026: CES26 agent-driven BSS-OSS-Network Suite",
+          "url": "https://www.nasdaq.com/press-release/mwc-2026-amdocs-unveils-ces26-agent-driven-bss-oss-network-suite-powered-amdocs-aos"
+        }
+      ]
+    },
+    {
+      "id": "svc-programmable-network-experiences",
+      "domain": "Service",
+      "title": "On-demand programmable network services (QoD, slicing) exposed to customers and developers",
+      "description": "GSMA Intelligence's H1 2026 Open Gateway report finds QoD, location and device APIs being adopted beyond fraud and identity, which points to demand for programmable network performance. Delivering this requires real-time service ordering, slice/QoS lifecycle management and per-session SLA monitoring behind API exposure.",
+      "keywords": [
+        "network APIs",
+        "quality on demand",
+        "network slicing",
+        "programmable networks",
+        "developers",
+        "CAMARA",
+        "on-demand services"
+      ],
+      "aspects": [
+        "Fulfillment",
+        "Assurance",
+        "Environment"
+      ],
+      "solution_areas": [
+        "Service orchestration",
+        "Network slice management",
+        "API exposure / gateway",
+        "Service quality monitoring"
+      ],
+      "sources": [
+        {
+          "title": "GSMA - GSMA Intelligence publishes the latest Open Gateway State-of-the-Market Report (Jul 2026)",
+          "url": "https://www.gsma.com/solutions-and-impact/gsma-open-gateway/gsmai-publish-the-latest-open-gateway-state-of-the-market-read-it-to-find-out-valuable-insights/"
+        }
+      ]
+    },
+    {
+      "id": "res-autonomous-networks-l4",
+      "domain": "Resource",
+      "title": "Autonomous networks Level 4 with agentic network operations",
+      "description": "A TM Forum survey of 80 operators finds that 20% expect Level 4+ by 2027, 81% target L4+ by 2030, and 75% plan to increase autonomous network investment by 2026. Telefónica ended 2025 with 12 operational L4 use cases and targets L4 by 2030. Deutsche Telekom's RAN Guardian Agent has triggered more than 100 automatic remediations and cut handling of major events from hours to about one minute. Operators need AI-driven RAN/core operations, digital twins and closed-loop automation.",
+      "keywords": [
+        "autonomous networks",
+        "Level 4",
+        "AI agents",
+        "AIOps",
+        "network operations",
+        "NOC",
+        "zero touch",
+        "closed-loop automation"
+      ],
+      "aspects": [
+        "Assurance",
+        "Fulfillment",
+        "Planning",
+        "Insight"
+      ],
+      "solution_areas": [
+        "Autonomous network operations / AIOps",
+        "Network digital twin",
+        "SMO / RIC",
+        "Network inventory and topology",
+        "Agentic AI platform"
+      ],
+      "sources": [
+        {
+          "title": "TM Forum - Autonomous Networks Leadership Forum spotlights Level 4 shift",
+          "url": "https://tmforum.org/news-insight/newsroom/autonomous-networks-leadership-forum-spotlights-level-4-shift"
+        },
+        {
+          "title": "TelecomLead - Autonomous telecom networks 2026: Deutsche Telekom, Telefonica, China Mobile and Verizon push toward Level 4",
+          "url": "https://telecomlead.com/5g/autonomous-telecom-networks-2026-deutsche-telekom-telefonica-china-mobile-and-verizon-push-toward-level-4-127994"
+        }
+      ]
+    },
+    {
+      "id": "res-copper-switchoff-ftth",
+      "domain": "Resource",
+      "title": "Copper switch-off and FTTH completion",
+      "description": "The DNA proposal requires Member States to have copper networks switched off by 31 December 2035 (with limited exceptions), with switch-off plans submitted to national regulators. FTTH reached 77.2% of European households by end-2025, and Connect Europe warns that 41.8 million Europeans would remain unserved by FTTH in 2030 without more investment capacity. Operators need migration planning, physical network inventory, field workforce orchestration and customer migration journeys.",
+      "keywords": [
+        "copper switch-off",
+        "FTTH",
+        "fibre",
+        "fiber",
+        "broadband",
+        "migration",
+        "network rollout",
+        "field operations"
+      ],
+      "aspects": [
+        "Planning",
+        "Environment",
+        "Fulfillment",
+        "Engagement"
+      ],
+      "solution_areas": [
+        "Physical network inventory (GIS)",
+        "Network planning and rollout",
+        "Field service / work order management",
+        "Customer migration orchestration"
+      ],
+      "sources": [
+        {
+          "title": "Covington Inside Privacy - Seven major changes in the DNA proposal",
+          "url": "https://www.insideprivacy.com/data-security/seven-major-changes-in-the-european-commissions-proposal-for-an-eu-digital-networks-act/"
+        },
+        {
+          "title": "Connect Europe - State of Digital Communications 2026",
+          "url": "https://connecteurope.org/insights/reports/state-digital-communications-2026"
+        }
+      ]
+    },
+    {
+      "id": "res-5gsa-cloud-native-open-ran",
+      "domain": "Resource",
+      "title": "5G SA cloud-native core and Open RAN rollout",
+      "description": "5G SA covers 63% of the European population, against 93% in China and 81% in the USA, and Europe saw 57 Open RAN trials and deployments in 2025 (Connect Europe). Opensignal notes that mid-band spectrum is assigned in all 29 markets surveyed, so spectrum is no longer the main constraint on SA. Operators need cloud-native network function lifecycle management, multi-vendor RAN management and an updated resource inventory.",
+      "keywords": [
+        "5G standalone",
+        "5G core",
+        "cloud native",
+        "Open RAN",
+        "RAN",
+        "network functions",
+        "multi-vendor",
+        "telco cloud"
+      ],
+      "aspects": [
+        "Planning",
+        "Environment",
+        "Fulfillment",
+        "Assurance"
+      ],
+      "solution_areas": [
+        "Network inventory",
+        "Cloud-native NF orchestration (CNF/Kubernetes)",
+        "SMO / RIC",
+        "Network planning"
+      ],
+      "sources": [
+        {
+          "title": "Connect Europe - State of Digital Communications 2026",
+          "url": "https://connecteurope.org/insights/reports/state-digital-communications-2026"
+        },
+        {
+          "title": "Opensignal - 5G Standalone in Europe (Jun 2026)",
+          "url": "https://insights.opensignal.com/2026/06/5g-standalone-in-europe-where-deployment-stands-and-what-it-means-for-users-june-2026/dt"
+        }
+      ]
+    },
+    {
+      "id": "res-energy-efficiency",
+      "domain": "Resource",
+      "title": "AI-driven network energy efficiency",
+      "description": "The RAN accounts for around 75% of power consumed at a mobile site. AI-driven sleep modes show 6-10% savings in pilots, and one vendor reports confirmed savings above 20% at individual base stations. Operators need energy telemetry, traffic forecasting, and policy-based power-state automation linked to sustainability reporting.",
+      "keywords": [
+        "energy efficiency",
+        "sustainability",
+        "net zero",
+        "RAN energy",
+        "AI optimisation",
+        "green networks",
+        "power saving"
+      ],
+      "aspects": [
+        "Insight",
+        "Planning",
+        "Assurance"
+      ],
+      "solution_areas": [
+        "Energy management system",
+        "RAN automation / rApps",
+        "Network analytics",
+        "ESG data management"
+      ],
+      "sources": [
+        {
+          "title": "RCR Wireless - AI telco energy savings (Jan 2026)",
+          "url": "https://rcrwireless.com/20260116/ai/ai-telco-energy-savings"
+        },
+        {
+          "title": "Analysys Mason - Operators' sustainability: legacy and AI",
+          "url": "https://www.analysysmason.com/research/content/articles/operators-sustainability-legacy-ai-rdns0/download-pdf"
+        }
+      ]
+    },
+    {
+      "id": "res-high-risk-vendor-swap",
+      "domain": "Resource",
+      "title": "High-risk supplier phase-out under the revised Cybersecurity Act",
+      "description": "In January 2026, the Commission proposed phasing high-risk suppliers' equipment out of critical sectors, initially with a 36-month deadline for mobile operators. EU governments' revised text of 22 September replaced that deadline with risk- and lifecycle-based periods. Operators warned that replacement could cost up to EUR 40bn. Operators need vendor-attributed inventory, swap-out planning and multi-vendor integration.",
+      "keywords": [
+        "high-risk vendors",
+        "Huawei",
+        "Cybersecurity Act",
+        "vendor swap",
+        "supply chain security",
+        "5G security",
+        "network inventory"
+      ],
+      "aspects": [
+        "Planning",
+        "Environment",
+        "Assurance",
+        "Fulfillment"
+      ],
+      "solution_areas": [
+        "Network inventory (vendor/asset attribution)",
+        "Supply-chain risk management",
+        "Network planning / swap programmes",
+        "Multi-vendor OSS integration"
+      ],
+      "sources": [
+        {
+          "title": "The Star / Reuters - European telcos may get more time to phase out high-risk suppliers under EU proposal (Sep 2026)",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/09/30/european-telcos-may-get-more-time-to-phase-out-high-risk-suppliers-under-eu-proposal"
+        },
+        {
+          "title": "The Register - EU considers deadline of 3 years for axing Chinese kit",
+          "url": "https://www.theregister.com/2026/01/21/eu_mulls_deadline_of_3_years/"
+        }
+      ]
+    },
+    {
+      "id": "eco-network-api-aggregation",
+      "domain": "Ecosystem",
+      "title": "Network API monetisation via CAMARA, Open Gateway and aggregators (Aduna)",
+      "description": "Aduna aggregates CAMARA-based APIs from 40 mobile operators. It is live in Germany, Spain, France and the Netherlands, among other markets, with the UK and Greece planned, and partners include Google Cloud, Infobip, Sinch and Vonage. GSMA Intelligence reports that Europe holds 34% of API deployments and that aggregators are becoming the main route to multi-operator APIs. Operators need API exposure, partner onboarding, consent management and wholesale API settlement.",
+      "keywords": [
+        "network APIs",
+        "CAMARA",
+        "Open Gateway",
+        "Aduna",
+        "API monetisation",
+        "developers",
+        "aggregators",
+        "partner ecosystem"
+      ],
+      "aspects": [
+        "Engagement",
+        "Environment",
+        "Accounting",
+        "Fulfillment"
+      ],
+      "solution_areas": [
+        "API exposure / gateway (CAMARA)",
+        "Partner management",
+        "Consent management",
+        "Wholesale/partner settlement"
+      ],
+      "sources": [
+        {
+          "title": "OpenSourceForU - Aduna extends open source CAMARA-based telecom APIs worldwide (Mar 2026)",
+          "url": "https://www.opensourceforu.com/2026/03/aduna-extends-open-source-camara-based-telecom-apis-worldwide/"
+        },
+        {
+          "title": "GSMA - Open Gateway State-of-the-Market Report (Jul 2026)",
+          "url": "https://www.gsma.com/solutions-and-impact/gsma-open-gateway/gsmai-publish-the-latest-open-gateway-state-of-the-market-read-it-to-find-out-valuable-insights/"
+        }
+      ]
+    },
+    {
+      "id": "eco-infra-separation-wholesale",
+      "domain": "Ecosystem",
+      "title": "Fixed network separation, fibre JVs and wholesale-only netcos",
+      "description": "European operators continue to separate passive and access infrastructure into wholesale or co-investment vehicles. TIM completed the sale of its NetCo (FiberCop) to KKR in July 2024, and Telenet formed a fibre JV with Fluvius. Both retail operators and netcos need robust wholesale ordering and assurance interfaces, equivalence-of-input processes, and TSA/carve-out IT separation.",
+      "keywords": [
+        "wholesale",
+        "fibre JV",
+        "netco",
+        "infrastructure separation",
+        "open access",
+        "towers",
+        "wholesale billing"
+      ],
+      "aspects": [
+        "Fulfillment",
+        "Assurance",
+        "Accounting",
+        "Environment"
+      ],
+      "solution_areas": [
+        "Wholesale order and trouble management (B2B APIs)",
+        "Wholesale billing and settlement",
+        "Partner/supplier management",
+        "IT carve-out / TSA management"
+      ],
+      "sources": [
+        {
+          "title": "Advanced Television - TIM completes sale of NetCo to KKR (Jul 2024)",
+          "url": "https://www.advanced-television.com/2024/07/02/tim-completes-sale-of-netco-to-kkr/"
+        },
+        {
+          "title": "Mobile World Live - Telenet forms fibre JV with Fluvius",
+          "url": "https://www.mobileworldlive.com/europe/telenet-forms-fibre-jv-with-fluvius/"
+        }
+      ]
+    },
+    {
+      "id": "eco-ip-interconnection-dna",
+      "domain": "Ecosystem",
+      "title": "IP interconnection and CAP relations under the DNA dispute-resolution framework",
+      "description": "Instead of 'fair share' network fees, the DNA proposal establishes a negotiation framework. Providers cannot refuse access except in limited cases, and disputes go to a conciliatory meeting followed by a BEREC opinion. It also widens net-neutrality exceptions to allow specialised services. Operators need interconnect agreement management, traffic analytics as negotiation evidence, and specialised-service product governance.",
+      "keywords": [
+        "IP interconnection",
+        "content providers",
+        "fair share",
+        "Digital Networks Act",
+        "peering",
+        "traffic",
+        "dispute resolution"
+      ],
+      "aspects": [
+        "Engagement",
+        "Insight",
+        "Accounting",
+        "Assurance"
+      ],
+      "solution_areas": [
+        "Interconnect and partner agreement management",
+        "Traffic analytics",
+        "Wholesale billing",
+        "Regulatory compliance management"
+      ],
+      "sources": [
+        {
+          "title": "Covington Inside Privacy - Seven major changes in the DNA proposal",
+          "url": "https://www.insideprivacy.com/data-security/seven-major-changes-in-the-european-commissions-proposal-for-an-eu-digital-networks-act/"
+        }
+      ]
+    },
+    {
+      "id": "eco-d2d-ntn-partnerships",
+      "domain": "Ecosystem",
+      "title": "Satellite/NTN wholesale partnerships for coverage extension",
+      "description": "Satellite Connect Europe is building ground stations in Spain and the UK and plans to wholesale D2D capacity to European MNOs. AST targets 60 satellites by end-2026, and about 90 are needed for continuous coverage. The DNA proposal also creates an EU-level satellite authorisation regime. Operators need partner integration, spectrum-sharing coordination and inter-operator settlement for NTN capacity.",
+      "keywords": [
+        "satellite",
+        "NTN",
+        "direct to device",
+        "partnerships",
+        "coverage extension",
+        "wholesale"
+      ],
+      "aspects": [
+        "Engagement",
+        "Accounting",
+        "Planning"
+      ],
+      "solution_areas": [
+        "Partner/supplier management",
+        "Inter-operator settlement",
+        "Spectrum management",
+        "Roaming/NTN integration"
+      ],
+      "sources": [
+        {
+          "title": "TelecomTV - SatCo becomes Satellite Connect Europe",
+          "url": "https://www.telecomtv.com/content/access-evolution/vodafone-backed-satco-becomes-satellite-connect-europe-begins-ground-station-build-54947/amp/"
+        },
+        {
+          "title": "Covington Inside Privacy - Seven major changes in the DNA proposal",
+          "url": "https://www.insideprivacy.com/data-security/seven-major-changes-in-the-european-commissions-proposal-for-an-eu-digital-networks-act/"
+        }
+      ]
+    },
+    {
+      "id": "ent-ai-workforce-transformation",
+      "domain": "Enterprise",
+      "title": "AI-driven workforce and operating-model transformation",
+      "description": "Operators are restructuring around AI. O2 Germany will cut more than 1,100 jobs by end-2026 while 'intensifying the use of AI in key processes', and expects about EUR 185m in annual savings from 2028. Proximus has announced more than 1,000 job cuts as part of an AI drive. McKinsey notes that a developer copilot's 25-40% pilot gains fell below 5% at scale. HR and finance need skills inventories, reskilling programmes, AI benefit tracking and change management.",
+      "keywords": [
+        "workforce",
+        "AI productivity",
+        "restructuring",
+        "skills",
+        "reskilling",
+        "operating model",
+        "HR",
+        "copilots"
+      ],
+      "aspects": [
+        "Planning",
+        "Insight",
+        "Accounting"
+      ],
+      "solution_areas": [
+        "HCM / skills management",
+        "Learning and reskilling platform",
+        "Enterprise performance management / benefits tracking",
+        "Agentic AI for back-office (finance, HR)"
+      ],
+      "sources": [
+        {
+          "title": "DCD - Telefonica Germany confirms plans to cut 1,100 jobs as AI processes take shape",
+          "url": "https://www.datacenterdynamics.com/en/news/telef%C3%B3nica-germany-confirms-plans-to-cut-1100-jobs-as-ai-processes-take-shape/"
+        },
+        {
+          "title": "Brussels Times - Proximus plans to cut more than 1,000 jobs as AI drive reshapes telecom giant",
+          "url": "https://www.brusselstimes.com/1994433/proximus-plans-to-cut-thousands-of-jobs-as-ai-drive-reshapes-telecom-giant"
+        }
+      ]
+    },
+    {
+      "id": "ent-capital-discipline-investment-gap",
+      "domain": "Enterprise",
+      "title": "Capital discipline under a persistent investment gap",
+      "description": "European telecom capex fell 2% to EUR 64.6bn in 2024, and investment per capita is EUR 118 in Europe against EUR 217 in the USA (Connect Europe). Finance functions need tighter capex prioritisation, asset monetisation (towers, fibre, data centres), and investment and return analytics that tie network spend to revenue and regulatory commitments.",
+      "keywords": [
+        "capex",
+        "investment gap",
+        "finance",
+        "asset monetisation",
+        "towers",
+        "data centres",
+        "cost reduction"
+      ],
+      "aspects": [
+        "Planning",
+        "Accounting",
+        "Insight"
+      ],
+      "solution_areas": [
+        "Capex planning and portfolio management",
+        "Enterprise performance management / FP&A",
+        "Fixed asset management",
+        "Network investment analytics"
+      ],
+      "sources": [
+        {
+          "title": "Connect Europe - State of Digital Communications 2026",
+          "url": "https://connecteurope.org/insights/reports/state-digital-communications-2026"
+        }
+      ]
+    },
+    {
+      "id": "ent-csrd-omnibus-sustainability",
+      "domain": "Enterprise",
+      "title": "Recalibrated sustainability reporting (CSRD/CSDDD after Omnibus I)",
+      "description": "Omnibus I (Directive (EU) 2026/470, in force 19 March 2026) narrows CSRD scope to companies above EUR 450m turnover and 1,000 employees, and CS3D to those above EUR 1.5bn and 5,000 employees, with CS3D applying from 26 July 2029. Large European operators stay in scope. They need auditable ESG data (including network energy), supplier due-diligence workflows and limited-assurance readiness.",
+      "keywords": [
+        "CSRD",
+        "ESG",
+        "sustainability reporting",
+        "Omnibus",
+        "supply chain due diligence",
+        "compliance",
+        "green"
+      ],
+      "aspects": [
+        "Accounting",
+        "Assurance",
+        "Insight"
+      ],
+      "solution_areas": [
+        "ESG data and reporting platform",
+        "Supplier due diligence / procurement",
+        "Energy and carbon accounting",
+        "GRC"
+      ],
+      "sources": [
+        {
+          "title": "Crowell - EU sustainability reporting revamp: key updates to the CSRD and CS3D from the Omnibus I Directive",
+          "url": "https://www.crowell.com/en/insights/client-alerts/eu-sustainability-reporting-revamp-key-updates-to-the-csrd-and-the-cs3d-from-the-omnibus-i-directive"
+        }
+      ]
+    },
+    {
+      "id": "ent-supply-chain-security-procurement",
+      "domain": "Enterprise",
+      "title": "Supply-chain security in procurement and vendor management",
+      "description": "NIS2 classes telecom providers as 'essential' and requires security to cascade through the supply chain. The UK Telecoms Security Code prescribes vendor risk management, and the Cybersecurity Act revision targets high-risk suppliers. Procurement needs vendor risk scoring, contract security clauses, SBOM and evidence collection, and diversification planning.",
+      "keywords": [
+        "procurement",
+        "supply chain security",
+        "vendor management",
+        "risk",
+        "Cybersecurity Act",
+        "compliance"
+      ],
+      "aspects": [
+        "Assurance",
+        "Planning",
+        "Environment"
+      ],
+      "solution_areas": [
+        "Source-to-contract / procurement",
+        "Third-party risk management",
+        "GRC",
+        "Contract management"
+      ],
+      "sources": [
+        {
+          "title": "Shoosmiths - Cyber resilience: telecoms under pressure",
+          "url": "https://www.shoosmiths.com/perspectives/stories/articles/cyber-resilience-telecoms-under-pressure"
+        },
+        {
+          "title": "The Star / Reuters - European telcos may get more time to phase out high-risk suppliers",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/09/30/european-telcos-may-get-more-time-to-phase-out-high-risk-suppliers-under-eu-proposal"
+        }
+      ]
+    },
+    {
+      "id": "gen-agentic-ai-platform-governance",
+      "domain": "Generic",
+      "title": "Agentic ODA: shared agentic AI platform with unified governance",
+      "description": "TM Forum's Project ONE (launched 24 November 2025) extends the ODA Canvas so agents can work with ODA components. It uses MCP and A2A, with shared LLM access, data products and guardrails built once. Telefónica Germany's JARVIS agentic fabric (live July 2026, more than 40 million customers) runs on TMF Open APIs and the AI-native canvas. Operators need an enterprise agent platform, an agent registry, policy guardrails, observability and AI Act compliance artefacts.",
+      "keywords": [
+        "agentic AI",
+        "AI platform",
+        "AI governance",
+        "ODA",
+        "Project ONE",
+        "LLM",
+        "AI agents",
+        "MLOps"
+      ],
+      "aspects": [
+        "Environment",
+        "Assurance",
+        "Planning",
+        "Intention"
+      ],
+      "solution_areas": [
+        "Agentic AI platform (MCP/A2A)",
+        "AI governance and model risk management",
+        "LLM gateway",
+        "ODA Canvas / composable IT",
+        "AI observability"
+      ],
+      "sources": [
+        {
+          "title": "TM Forum Inform - Project ONE aims to deliver agentic ODA",
+          "url": "https://inform.tmforum.org/features-and-opinion/project-one-aims-to-deliver-agentic-oda"
+        },
+        {
+          "title": "Hansen - Agentic AI governance in telecoms: Telefonica Germany",
+          "url": "https://www.hansencx.com/insights/agentic-ai-governance-telecoms-telefonica-germany-hansen/"
+        }
+      ]
+    },
+    {
+      "id": "gen-data-products-foundation",
+      "domain": "Generic",
+      "title": "Governed data products as the foundation for AI (and Data Act compliance)",
+      "description": "Cloudera's 2026 telecom Data Readiness Index finds that 60% of telco leaders cannot access the data their strategic initiatives need and that only 33% maintain fully governed data. Analysys Mason's first Telco AI Readiness Index (50 Tier 1 operators, 2026) concludes that operators struggle to move from AI ambition to operationalisation at scale. Project ONE proposes a standards-based data-product catalog. The EU Data Act, applicable since September 2025, adds data-access and cloud-switching duties. Operators need data mesh/product catalogs, lineage and data-sharing controls.",
+      "keywords": [
+        "data products",
+        "data governance",
+        "data platform",
+        "Data Act",
+        "data quality",
+        "AI readiness",
+        "analytics"
+      ],
+      "aspects": [
+        "Environment",
+        "Insight",
+        "Assurance"
+      ],
+      "solution_areas": [
+        "Data platform / lakehouse",
+        "Data product catalog and governance",
+        "Master data management",
+        "Data sharing and consent controls"
+      ],
+      "sources": [
+        {
+          "title": "Cloudera - Telco AI ambitions risk failure amid critical data access and governance gaps (Jun 2026)",
+          "url": "https://www.cloudera.com/about/news-and-blogs/press-releases/2026-06-17-telco-ai-ambitions-risk-failure-amid-critical-data-access-and-governance-gaps.html"
+        },
+        {
+          "title": "Analysys Mason - Telco AI Readiness Index: 2026 results",
+          "url": "https://www.analysysmason.com/research/content/perspectives/telco-ai-readiness-index/"
+        }
+      ]
+    },
+    {
+      "id": "gen-nis2-cyber-resilience",
+      "domain": "Generic",
+      "title": "NIS2 / CER cyber and operational resilience",
+      "description": "Telecom providers are 'essential entities' under NIS2. They must report incidents within 24 hours, register in each country where they provide services, and can face fines of up to EUR 10m or 2% of worldwide turnover, with possible management sanctions. The Critical Entities Resilience Directive adds all-hazards resilience. Operators need a SOC with regulatory incident workflows, BC/DR, evidence management and audit readiness.",
+      "keywords": [
+        "NIS2",
+        "cybersecurity",
+        "resilience",
+        "SOC",
+        "incident reporting",
+        "business continuity",
+        "compliance",
+        "security"
+      ],
+      "aspects": [
+        "Assurance",
+        "Planning",
+        "Environment"
+      ],
+      "solution_areas": [
+        "Security operations (SIEM/SOAR)",
+        "GRC / compliance evidence management",
+        "Business continuity and DR",
+        "Regulatory incident reporting"
+      ],
+      "sources": [
+        {
+          "title": "Shoosmiths - Cyber resilience: telecoms under pressure",
+          "url": "https://www.shoosmiths.com/perspectives/stories/articles/cyber-resilience-telecoms-under-pressure"
+        }
+      ]
+    },
+    {
+      "id": "gen-pqc-migration",
+      "domain": "Generic",
+      "title": "Post-quantum cryptography migration",
+      "description": "The EU coordinated PQC roadmap expects national plans and pilots by end-2026, high-risk use cases migrated by end-2030, and medium-risk ones by end-2035. Belgium's regulator BIPT issued minimum requirements and a PQC roadmap for the telecom sector on 13 January 2026, and GSMA runs PQC programmes for telco networks. Operators need cryptographic inventory, crypto-agility in network and IT, and vendor PQC readiness tracking.",
+      "keywords": [
+        "post-quantum",
+        "PQC",
+        "cryptography",
+        "quantum-safe",
+        "security",
+        "encryption"
+      ],
+      "aspects": [
+        "Planning",
+        "Environment",
+        "Assurance"
+      ],
+      "solution_areas": [
+        "Cryptographic inventory / crypto-agility",
+        "PKI and key management",
+        "Security architecture",
+        "Vendor compliance tracking"
+      ],
+      "sources": [
+        {
+          "title": "Utimaco - The EU's Roadmap for Post-Quantum Cryptography",
+          "url": "https://utimaco.com/news/blog-posts/eus-roadmap-post-quantum-cryptography"
+        },
+        {
+          "title": "BIPT - Communication of 13 January 2026 on minimum requirements and roadmap for the post-quantum transition in the telecommunications sector",
+          "url": "https://bipt.be/operators/publication/communication-of-13-january-2026-on-minimum-requirements-and-roadmap-for-the-post-quantum-transition-in-the-telecommunications-sector"
+        }
+      ]
+    },
+    {
+      "id": "gen-sovereign-hybrid-cloud",
+      "domain": "Generic",
+      "title": "Sovereign hybrid cloud for the operator's own IT, data and AI workloads",
+      "description": "Technology sovereignty is a central theme of Connect Europe's 2026 report, and operators are building sovereign alternatives to hyperscalers, such as Deutsche Telekom's T Cloud Public. Telefónica Germany's agentic fabric is designed to preserve sovereignty while using hyperscaler agent tooling, and Cloudera advises bringing AI to the data rather than moving network data to the public cloud. Architecture needs workload placement policies, portability and an exit strategy (in line with the Data Act's switching rules), and sovereign AI hosting.",
+      "keywords": [
+        "sovereign cloud",
+        "hybrid cloud",
+        "cloud migration",
+        "data sovereignty",
+        "IT modernisation",
+        "hyperscalers"
+      ],
+      "aspects": [
+        "Environment",
+        "Planning",
+        "Assurance"
+      ],
+      "solution_areas": [
+        "Hybrid/sovereign cloud platform",
+        "Cloud governance and FinOps",
+        "Workload placement / portability",
+        "Sovereign AI infrastructure"
+      ],
+      "sources": [
+        {
+          "title": "Telefonica - State of Digital Communications 2026: Why tech sovereignty matters",
+          "url": "https://www.telefonica.com/en/communication-room/blog/state-digital-communications-2026-tech-sovereignty-matters/"
+        },
+        {
+          "title": "TelecomTV - DT boasts Europe's answer to hyperscalers",
+          "url": "https://www.telecomtv.com/content/telco-public-cloud/dt-boasts-europe-s-answer-to-hyperscalers-54768/amp/"
+        }
+      ]
+    }
+  ]
+}

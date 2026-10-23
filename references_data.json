@@ -1,0 +1,2309 @@
+{
+  "schema": "telco-landscape/references@1",
+  "updated": "2026-10-23",
+  "about": "NTT DATA public references and offerings. 'blocks' places a reference on the map as 'Domain|Aspect'. 'industry' is the client's industry; for any industry other than Telecommunications, 'transfer_note' says why the competence transfers to telcos (shown with a non-telco caveat).",
+  "services": [
+    "Strategy",
+    "Build",
+    "Integration",
+    "Support"
+  ],
+  "confidence_levels": [
+    "high",
+    "medium",
+    "low"
+  ],
+  "source_types": [
+    "NTT DATA",
+    "third-party"
+  ],
+  "references": [
+    {
+      "id": "ref-001",
+      "title": "5G intralogistics platform at CIE Automotive (AGVs/AMRs)",
+      "client": "Telefonica (with end customer CIE Automotive)",
+      "industry": "Telecommunications",
+      "country": "Spain",
+      "year": "2022",
+      "summary": "PoC of a 5G-based intralogistics management platform coordinating AGVs/AMRs at CIE Norma plant (Itziar, Gipuzkoa); NTT DATA contributed manufacturing/supply-chain portfolio, analytics and SAP integration of production and AGV data.",
+      "keywords": [
+        "5G",
+        "private networks",
+        "industry 4.0",
+        "intralogistics",
+        "AGV",
+        "edge computing",
+        "manufacturing",
+        "B2B"
+      ],
+      "services": [
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Product|Planning",
+        "Resource|Fulfillment",
+        "Ecosystem|Engagement"
+      ],
+      "url": "https://www.telefonica.com/es/sala-comunicacion/prensa/telefonica-y-ntt-data-integran-5g-en-la-logistica-interna-de-cie-automotive/",
+      "source_type": "third-party",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-002",
+      "title": "5G + edge video analytics for Port of Malaga security",
+      "client": "Telefonica (Port of Malaga)",
+      "industry": "Telecommunications",
+      "country": "Spain",
+      "year": "2021",
+      "summary": "Real-time vessel access monitoring with 4K video processed at a Telefonica edge node over 5G; NTT DATA provided port technology portfolio, analytics and AI; joint study to industrialise into Telefonica's 5G port offering.",
+      "keywords": [
+        "5G",
+        "edge computing",
+        "video analytics",
+        "AI",
+        "ports",
+        "security",
+        "computer vision",
+        "B2B"
+      ],
+      "services": [
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Product|Planning",
+        "Generic|Insight"
+      ],
+      "url": "https://www.telefonica.com/en/communication-room/press-room/telefonica-and-ntt-data-to-bring-5g-to-the-port-of-malaga-to-bolster-security/",
+      "source_type": "third-party",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-003",
+      "title": "End-to-end multi-vendor automated 5G SA network slicing trial (LIME programme)",
+      "client": "Telefonica",
+      "industry": "Telecommunications",
+      "country": "Spain",
+      "year": "2023",
+      "summary": "NTT DATA provided ONAP-based E2E orchestration, ONE OSS assurance and AR app for automated slice lifecycle across Nokia RAN, Mavenir core/vRAN and Cisco transport, hybrid Telefonica lab + AWS; slice allocation under 25 minutes.",
+      "keywords": [
+        "5G standalone",
+        "network slicing",
+        "orchestration",
+        "ONAP",
+        "OSS",
+        "multi-vendor",
+        "AWS",
+        "automation"
+      ],
+      "services": [
+        "Integration",
+        "Build"
+      ],
+      "blocks": [
+        "Service|Fulfillment",
+        "Resource|Fulfillment",
+        "Service|Assurance"
+      ],
+      "url": "https://www.telefonica.com/en/communication-room/press-room/telefonica-ntt-data-test-5g-slicing-technology-in-an-end-to-end-scenario/",
+      "source_type": "third-party",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-004",
+      "title": "Microsoft 365 Copilot generative AI productivity pilot",
+      "client": "MASORANGE",
+      "industry": "Telecommunications",
+      "country": "Spain",
+      "year": "2024",
+      "summary": "With Microsoft, deployed M365 Copilot pilot (300 employees), training, Copilot community and champions network, use-case collection and impact measurement (~55% time saving on assisted tasks, 80% adoption).",
+      "keywords": [
+        "GenAI",
+        "Microsoft 365 Copilot",
+        "productivity",
+        "AI adoption",
+        "change management",
+        "workforce"
+      ],
+      "services": [
+        "Build",
+        "Support"
+      ],
+      "blocks": [
+        "Enterprise|Engagement",
+        "Generic|Insight"
+      ],
+      "url": "https://be.nttdata.com/insights/case-studies/generative-ai-to-boost-productivity-at-masorange",
+      "source_type": "NTT DATA",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-005",
+      "title": "B2B marketing ecosystem transformation on Salesforce Data Cloud / Marketing Cloud",
+      "client": "Vodafone Espana (B2B unit)",
+      "industry": "Telecommunications",
+      "country": "Spain",
+      "year": "c. 2024-2025 (not stated; page references Zegona acquisition May 2024)",
+      "summary": "Consulting on Salesforce configuration, B2B Data Cloud data model for multi-level segmentation, unified customer view, three integrated Marketing Cloud tools, ongoing support/change management; 20-30% campaign uplift.",
+      "keywords": [
+        "Salesforce",
+        "Data Cloud",
+        "Marketing Cloud",
+        "B2B marketing",
+        "personalisation",
+        "CRM",
+        "campaigns",
+        "digital channels"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Support"
+      ],
+      "blocks": [
+        "Market|Engagement",
+        "Market|Insight",
+        "Sales|Engagement"
+      ],
+      "url": "https://www.nttdata.com/global/en/insights/reports/vodafone-espana",
+      "source_type": "NTT DATA",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-006",
+      "title": "AW3D satellite 3D map data for Vodafone UK 5G site planning",
+      "client": "Vodafone UK",
+      "industry": "Telecommunications",
+      "country": "UK",
+      "year": "not stated (AW3D 5G map package launched 2019)",
+      "summary": "NTT DATA supplied AW3D satellite 3D map data and supported Vodafone in using it in Esri ArcGIS Enterprise on AWS; Vodafone built a UK-wide 3D model to plan 5G towers and track changes affecting over 500,000 network assets.",
+      "keywords": [
+        "3D mapping",
+        "satellite data",
+        "network planning",
+        "5G rollout",
+        "GIS",
+        "ArcGIS",
+        "AWS",
+        "digital twin"
+      ],
+      "services": [
+        "Build"
+      ],
+      "blocks": [
+        "Resource|Planning",
+        "Resource|Environment"
+      ],
+      "url": "https://uk.nttdata.com/insights/case-studies/vodafone-uses-3d-mapping-data-to-help-locate-new-5g-towers",
+      "source_type": "NTT DATA",
+      "confidence": "medium"
+    },
+    {
+      "id": "ref-007",
+      "title": "Global client partnership with Vodafone",
+      "client": "Vodafone Group",
+      "industry": "Telecommunications",
+      "country": "UK / multi-country (UK, Italy, Spain, Germany)",
+      "year": "2021",
+      "summary": "NTT DATA described as Vodafone's newly appointed global partner; appointed a global client partner VP. Long-standing advisory across Vodafone OpCos. Scope/value not disclosed.",
+      "keywords": [
+        "global partnership",
+        "account management",
+        "strategic partner"
+      ],
+      "services": [
+        "Strategy",
+        "Build"
+      ],
+      "blocks": [
+        "Enterprise|Planning"
+      ],
+      "url": "https://uk.nttdata.com/news/ntt-data-uk-appoints-alberto-bellofatto-as-vice-president-global-client-partner-for-vodafone",
+      "source_type": "NTT DATA",
+      "confidence": "medium"
+    },
+    {
+      "id": "ref-008",
+      "title": "IT simplification, cloud optimisation and DevOps transformation",
+      "client": "Three UK",
+      "industry": "Telecommunications",
+      "country": "UK",
+      "year": "2023",
+      "summary": "Cloud cost governance and design patterns, simplification of 100+ systems (billing, fraud etc.), DevOps release cadence and team enablement, data consolidation.",
+      "keywords": [
+        "IT simplification",
+        "cloud",
+        "DevOps",
+        "application rationalisation",
+        "IT modernisation"
+      ],
+      "services": [
+        "Strategy",
+        "Build"
+      ],
+      "blocks": [
+        "Generic|Planning",
+        "Generic|Environment",
+        "Generic|Fulfillment"
+      ],
+      "url": "https://uk.nttdata.com/insights/case-studies/ntt-data-helped-three-overhaul-digital-infrastructure",
+      "source_type": "NTT DATA",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-009",
+      "title": "Managed services agreement for business-critical IT (13-year relationship extended)",
+      "client": "eir",
+      "industry": "Telecommunications",
+      "country": "Ireland",
+      "year": "2021",
+      "summary": "Application and infrastructure management, cybersecurity, help desk 24/7 during eir's digital transformation; legacy retirement and move to open source.",
+      "keywords": [
+        "managed services",
+        "application management",
+        "open source",
+        "IT operations",
+        "support"
+      ],
+      "services": [
+        "Support"
+      ],
+      "blocks": [
+        "Generic|Assurance",
+        "Enterprise|Engagement"
+      ],
+      "url": "https://iteuropa.com/news/ntt-data-uk-extends-partnership-irish-telco-provider-eir",
+      "source_type": "third-party",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-010",
+      "title": "Conversational AI chatbot hackathon",
+      "client": "Tesco Mobile",
+      "industry": "Telecommunications",
+      "country": "UK",
+      "year": "not stated",
+      "summary": "Listed on NTT DATA UK AWS-for-telecom page as a conversational AI chatbot hackathon; no detail.",
+      "keywords": [
+        "chatbot",
+        "conversational AI",
+        "AWS",
+        "customer care",
+        "digital channels",
+        "hackathon"
+      ],
+      "services": [
+        "Build"
+      ],
+      "blocks": [
+        "Customer|Engagement"
+      ],
+      "url": "https://uk.nttdata.com/aws-cloud-solutions-for-the-telecom-industry",
+      "source_type": "NTT DATA",
+      "confidence": "low"
+    },
+    {
+      "id": "ref-011",
+      "title": "BSS/OSS implementation for Telefonica FibreCo UGG",
+      "client": "UGG (Unsere Gruene Glasfaser, Telefonica/Allianz FibreCo)",
+      "industry": "Telecommunications",
+      "country": "Germany",
+      "year": "c. 2023-2024 (not stated)",
+      "summary": "Third-party article cites NTT DATA BSS/OSS work for Telefonica FibreCos with UGG as example. Note: Aria Systems' UGG case study (ServiceNow, Tenon) does not mention NTT DATA, so exact scope unverified.",
+      "keywords": [
+        "BSS",
+        "OSS",
+        "fibre",
+        "wholesale",
+        "FibreCo",
+        "netco",
+        "order management",
+        "billing"
+      ],
+      "services": [
+        "Integration",
+        "Build"
+      ],
+      "blocks": [
+        "Ecosystem|Fulfillment",
+        "Ecosystem|Accounting",
+        "Service|Fulfillment"
+      ],
+      "url": "https://www.telcotitans.com/network-and-it/ntt-data-embracing-open-network-to-monetise-telco-investment/8392.article",
+      "source_type": "third-party",
+      "confidence": "medium"
+    },
+    {
+      "id": "ref-012",
+      "title": "Private 5G 'Connected Workspace' managed service launch",
+      "client": "Eurofiber (infrastructure provider, partner)",
+      "industry": "Telecommunications",
+      "country": "Netherlands",
+      "year": "2025",
+      "summary": "Joint managed Private 5G service on Eurofiber data centres, monthly fee model, available from Sept 2025; NTT DATA provides wireless network implementation.",
+      "keywords": [
+        "private 5G",
+        "managed services",
+        "connected workspace",
+        "B2B",
+        "network as a service"
+      ],
+      "services": [
+        "Build",
+        "Support"
+      ],
+      "blocks": [
+        "Product|Environment",
+        "Resource|Assurance"
+      ],
+      "url": "https://www.techzine.eu/news/infrastructure/132952/ntt-data-and-eurofiber-launch-private-5g-service-for-businesses/",
+      "source_type": "third-party",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-013",
+      "title": "TM Forum Catalyst: Edge Smart Spaces beyond 5G",
+      "client": "Telefonica (co-champions Verizon, American Tower)",
+      "industry": "Telecommunications",
+      "country": "Spain / global (DTW 2022)",
+      "year": "2022",
+      "summary": "Unattended Grab&Go retail in busy spaces such as airports, using edge computing, a partner ecosystem and usage-based payment. NTT DATA presented and co-developed the solution.",
+      "keywords": [
+        "edge computing",
+        "retail",
+        "Grab&Go",
+        "partner ecosystem",
+        "usage-based payment",
+        "TM Forum Catalyst"
+      ],
+      "services": [
+        "Build"
+      ],
+      "blocks": [
+        "Product|Planning",
+        "Ecosystem|Engagement"
+      ],
+      "url": "https://www.telefonica.com/es/wp-content/uploads/sites/4/2022/09/ndp-telefonica-nttdata.pdf",
+      "source_type": "third-party",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-014",
+      "title": "TM Forum Catalyst: Autonomous Customer Experience Index for zero-touch 5G network (phase 2022)",
+      "client": "Telefonica",
+      "industry": "Telecommunications",
+      "country": "Spain / global",
+      "year": "2022",
+      "summary": "AI/ML-based Customer Experience Index that anticipates customer issues to drive automated network processes. Telefónica was champion; NTT DATA presented and co-developed the solution. Part of a multi-phase catalyst series.",
+      "keywords": [
+        "customer experience index",
+        "AI",
+        "machine learning",
+        "zero touch",
+        "network automation",
+        "TM Forum Catalyst",
+        "service assurance"
+      ],
+      "services": [
+        "Build"
+      ],
+      "blocks": [
+        "Customer|Insight",
+        "Service|Assurance",
+        "Resource|Assurance"
+      ],
+      "url": "https://www.telefonica.com/es/wp-content/uploads/sites/4/2022/09/ndp-telefonica-nttdata.pdf",
+      "source_type": "third-party",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-015",
+      "title": "TM Forum Catalysts: 5G Slicing as a Service for B2B2X over Convergent Cloud Central Offices; AI Autonomous CEI Calculation over Zero-Touch 5G",
+      "client": "Telefonica (partners incl. American Tower, Salesforce, Matrixx, Compax, Blue Prism, Ericsson, Tutela, Devo)",
+      "industry": "Telecommunications",
+      "country": "Spain / global",
+      "year": "c. 2021 (page says 4th consecutive year; year not stated)",
+      "summary": "Two catalysts: slice QoS via virtualization, blockchain-managed network sharing and edge for B2B; big-data/ML CEI with automated network actions.",
+      "keywords": [
+        "network slicing",
+        "5G",
+        "B2B2X",
+        "slicing as a service",
+        "partner ecosystem",
+        "TM Forum Catalyst",
+        "monetisation"
+      ],
+      "services": [
+        "Build"
+      ],
+      "blocks": [
+        "Product|Environment",
+        "Service|Fulfillment",
+        "Ecosystem|Engagement"
+      ],
+      "url": "https://gr.nttdata.com/insights/blog/ntt-data-present-in-a-new-edition-of-tm-forums-catalyst-program",
+      "source_type": "NTT DATA",
+      "confidence": "medium"
+    },
+    {
+      "id": "ref-016",
+      "title": "TM Forum Catalyst: 5G Enablement through industry standardized APIs (Phase I) - award winner",
+      "client": "Champions: AT&T, Axiata, China Telecom, Dialog, Ncell, Orange, XL Axiata, TIM, Telefonica, Telenor, Telstra, Verizon, Vodafone",
+      "industry": "Telecommunications",
+      "country": "Global (DTW Asia 2023)",
+      "year": "2023",
+      "summary": "Unified TM Forum and CAMARA API approach to expose 5G scenarios to partner apps. NTT DATA was one of several team members; the TM Forum project page marks it 'Winner', but the award category could not be confirmed.",
+      "keywords": [
+        "CAMARA",
+        "network APIs",
+        "TM Forum Open APIs",
+        "5G",
+        "API exposure",
+        "TM Forum Catalyst"
+      ],
+      "services": [
+        "Build"
+      ],
+      "blocks": [
+        "Ecosystem|Engagement",
+        "Ecosystem|Environment"
+      ],
+      "url": "https://tmforum.org/catalysts/projects/C23.5.451",
+      "source_type": "third-party",
+      "confidence": "medium"
+    },
+    {
+      "id": "ref-017",
+      "title": "TM Forum Catalyst: Network Service Monetization through Standardized APIs (Phase III)",
+      "client": "Telefonica (only operator named)",
+      "industry": "Telecommunications",
+      "country": "Global (DTW24 Copenhagen)",
+      "year": "2024",
+      "summary": "NTT DATA-led; unified TM Forum + CAMARA operations for monetizing network services; phase III fleet management with AR, analytics and network boosting (earlier phases: metaverse reference).",
+      "keywords": [
+        "network APIs",
+        "Open Gateway",
+        "API monetisation",
+        "CAMARA",
+        "TM Forum Catalyst",
+        "developers"
+      ],
+      "services": [
+        "Build"
+      ],
+      "blocks": [
+        "Ecosystem|Engagement",
+        "Ecosystem|Accounting"
+      ],
+      "url": "https://www.nttdata.com/global/en/insights/focus/2025/open-gateway-network-service-monetization-through-standardized-apis",
+      "source_type": "NTT DATA",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-018",
+      "title": "TM Forum Catalyst: Autonomous CEI for zero-touch 5G and Wi-Fi networks (Phase IV)",
+      "client": "Champions: Elisa, Telefonica (participants MedUX, Elisa Polystar, Optare)",
+      "industry": "Telecommunications",
+      "country": "Global (Finland/Spain champions)",
+      "year": "2024",
+      "summary": "Predictive CEI extended to in-home Wi-Fi, decision intelligence layer (DT4DI), anomaly detection, RCA, intent-based services. (NTT DATA not listed on Phase V 2025.)",
+      "keywords": [
+        "customer experience index",
+        "zero touch",
+        "Wi-Fi",
+        "5G",
+        "AI",
+        "service assurance",
+        "TM Forum Catalyst"
+      ],
+      "services": [
+        "Build"
+      ],
+      "blocks": [
+        "Customer|Insight",
+        "Service|Assurance"
+      ],
+      "url": "https://www.tmforum.org/catalysts/projects/C24.0.632/autonomous-cei-for-zerotouch-5g-and-wifi-networks-phase-iv",
+      "source_type": "third-party",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-019",
+      "title": "TM Forum Catalyst: AI-Driven Offer Lifecycle Management",
+      "client": "Not named",
+      "industry": "Telecommunications",
+      "country": "Global (DTW24)",
+      "year": "2024",
+      "summary": "GenAI support for offer management, CX and infrastructure rollout decisions. NTT DATA listed it at DTW24, but its role and the partners are not stated publicly.",
+      "keywords": [
+        "GenAI",
+        "offer management",
+        "product catalog",
+        "customer experience",
+        "TM Forum Catalyst"
+      ],
+      "services": [
+        "Build"
+      ],
+      "blocks": [
+        "Product|Environment",
+        "Product|Planning"
+      ],
+      "url": "https://up.nttdata.com/DTW-Ignite2024",
+      "source_type": "NTT DATA",
+      "confidence": "medium"
+    },
+    {
+      "id": "ref-020",
+      "title": "TM Forum Catalyst: AI-powered Sustainable Smart Farming (Phase I 2024, Phase II 2025)",
+      "client": "Telefonica (Phase II team: MATRIXX, NTT DATA, Telefonica)",
+      "industry": "Telecommunications",
+      "country": "Global / Spain",
+      "year": "2024-2025",
+      "summary": "Smart-Farming-as-a-Service combining IoT, analytics and GenAI with API exposure for B2B2X. NTT DATA led Phase I as a Moonshot catalyst (DTW24); Phase II team: MATRIXX, NTT DATA, Telefónica.",
+      "keywords": [
+        "smart farming",
+        "IoT",
+        "GenAI",
+        "B2B2X",
+        "network APIs",
+        "agriculture",
+        "TM Forum Catalyst"
+      ],
+      "services": [
+        "Build"
+      ],
+      "blocks": [
+        "Product|Planning",
+        "Ecosystem|Accounting"
+      ],
+      "url": "https://up.nttdata.com/DTW-Ignite2024",
+      "source_type": "third-party",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-021",
+      "title": "TM Forum Catalyst: Spatial Web - Open Gateway to the Immersive Future (award)",
+      "client": "Champion: Telefonica; partners TIM, Hansen, Matrixx, Nabstract.io, NTT DATA, Red Hat",
+      "industry": "Telecommunications",
+      "country": "Global (DTW Ignite 2025)",
+      "year": "2025",
+      "summary": "Open Gateway-based immersive/spatial services; won Outstanding Catalyst - Business Growth.",
+      "keywords": [
+        "spatial web",
+        "immersive",
+        "XR",
+        "Open Gateway",
+        "network APIs",
+        "TM Forum Catalyst"
+      ],
+      "services": [
+        "Build"
+      ],
+      "blocks": [
+        "Ecosystem|Engagement",
+        "Product|Planning"
+      ],
+      "url": "https://blogthinkbig.com/telefonica-destaca-en-el-tm-forum-dtw-ignite-2025-con-tres-proyectos-premiados",
+      "source_type": "third-party",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-022",
+      "title": "TM Forum Catalyst: Monetizing Federated Connectivity for Automotive OEMs (Best Moonshot award)",
+      "client": "Vodafone (Procure & Connect), Toyota, Netcracker",
+      "industry": "Telecommunications",
+      "country": "Global (DTW Ignite 2025)",
+      "year": "2025",
+      "summary": "Standardized API access to telco capabilities for low-latency vehicle services across networks; NTT DATA contributed 5G slicing. Won Best Moonshot Catalyst in Telco Monetization.",
+      "keywords": [
+        "automotive",
+        "connected cars",
+        "federated connectivity",
+        "network slicing",
+        "5G",
+        "TM Forum Catalyst",
+        "monetisation"
+      ],
+      "services": [
+        "Build"
+      ],
+      "blocks": [
+        "Ecosystem|Engagement",
+        "Ecosystem|Accounting",
+        "Product|Environment"
+      ],
+      "url": "https://www.netcracker.com/news/achievements/best-moonshot-catalyst-telco-monetization-monetizing-federated-connectivity-for-automotive-oems.html",
+      "source_type": "third-party",
+      "confidence": "high"
+    },
+    {
+      "id": "ref-023",
+      "title": "Layered network/OSS approach case study and Open Gateway SIM Swap for Itau",
+      "client": "Vivo (Telefonica Brasil); Banco Itau as API consumer",
+      "industry": "Telecommunications",
+      "country": "Brazil",
+      "year": "c. 2024 (not stated)",
+      "summary": "Third-party article cites NTT DATA's layered approach case at Vivo and Open Gateway NaaS SIM Swap API used for fraud checks benefiting Itau. NTT DATA's exact role unconfirmed by Vivo/Itau sources.",
+      "keywords": [
+        "SIM swap",
+        "fraud",
+        "Open Gateway",
+        "network APIs",
+        "banks",
+        "OSS",
+        "security"
+      ],
+      "services": [
+        "Integration",
+        "Build"
+      ],
+      "blocks": [
+        "Ecosystem|Engagement",
+        "Customer|Insight"
+      ],
+      "url": "https://www.telcotitans.com/network-and-it/ntt-data-embracing-open-network-to-monetise-telco-investment/8392.article",
+      "source_type": "third-party",
+      "confidence": "medium"
+    },
+    {
+      "id": "ref-025",
+      "title": "System integrator in DOCOMO's OREX Open RAN consortium",
+      "client": "NTT DOCOMO (NTT Group sibling)",
+      "industry": "Telecommunications",
+      "country": "Japan / global",
+      "year": "c. 2023-2024",
+      "summary": "NTT DATA acts as a systems integrator in DOCOMO's OREX open RAN ecosystem. DOCOMO is an NTT Group company, so this is a consortium role rather than an external client.",
+      "keywords": [
+        "Open RAN",
+        "RAN",
+        "systems integration",
+        "OREX",
+        "5G",
+        "multi-vendor"
+      ],
+      "services": [
+        "Integration"
+      ],
+      "blocks": [
+        "Resource|Environment",
+        "Resource|Fulfillment"
+      ],
+      "url": "https://www.nttdata.com/global/en/insights/focus/2024/ntt-data-are-with-csps-in-the-evolution-of-the-telecom-network",
+      "source_type": "NTT DATA",
+      "confidence": "medium"
+    },
+    {
+      "id": "ref-026",
+      "title": "Orange Spain and NTT DATA build 5G SA + AI smart-navigation app for ADIF railway station",
+      "client": "Orange Spain (with ADIF as end client)",
+      "industry": "Telecommunications",
+      "country": "Spain",
+      "year": "2024",
+      "summary": "Orange Spain and NTT DATA developed a 5G standalone-based app for rail infrastructure manager ADIF that guides travellers through a station in real time, using 12 people-counting cameras, AI analytics, 100+ Bluetooth beacons and digital twins; NTT DATA built the system on a cloud platform with edge processing.",
+      "keywords": [
+        "5G standalone",
+        "AI",
+        "smart mobility",
+        "railways",
+        "indoor navigation",
+        "digital twin",
+        "edge computing",
+        "cloud",
+        "B2B"
+      ],
+      "services": [
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Resource|Environment",
+        "Product|Engagement",
+        "Generic|Insight"
+      ],
+      "url": "https://rcrwireless.com/20240129/5g/orange-spain-ntt-data-develop-5g-app-intelligent-mobility",
+      "source_type": "third-party",
+      "confidence": "high",
+      "entity": "NTT DATA Spain"
+    },
+    {
+      "id": "ref-027",
+      "title": "MasOrange B2B Large Enterprises CRM (Dynamics 365) operational excellence",
+      "client": "MasOrange",
+      "industry": "Telecommunications",
+      "country": "Spain",
+      "year": "2026 (case study published Apr 2026)",
+      "summary": "NTT DATA modernised MasOrange's B2B large-enterprise CRM on Microsoft Dynamics 365: standardised workflows, order management and capacity assignment, operational dashboards and data governance. Reported results: 75% less rework and 54% shorter time from contract signature to provisioning.",
+      "keywords": [
+        "CRM",
+        "Microsoft Dynamics 365",
+        "B2B",
+        "large enterprises",
+        "order management",
+        "provisioning",
+        "data governance",
+        "dashboards"
+      ],
+      "services": [
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Sales|Fulfillment",
+        "Customer|Fulfillment",
+        "Enterprise|Insight"
+      ],
+      "url": "https://es.nttdata.com/insights/case-studies/masorange-impulsa-su-operatividad-y-refuerza-su-ciclo-comercial-b2b",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Spain"
+    },
+    {
+      "id": "ref-028",
+      "title": "WINDTRE RAN optimisation with RADCOM Virtual Drive Test + NTT DATA specialist services",
+      "client": "WINDTRE",
+      "industry": "Telecommunications",
+      "country": "Italy",
+      "year": "2024",
+      "summary": "NTT DATA Italia provided specialist services to evaluate and optimise WINDTRE's radio access network using RADCOM's cloud Virtual Drive Test, analysing 14 days of data across 143,471 km of Italian roads and railways.",
+      "keywords": [
+        "RAN optimisation",
+        "drive test",
+        "network quality",
+        "RADCOM",
+        "analytics",
+        "radio access network",
+        "assurance"
+      ],
+      "services": [
+        "Integration",
+        "Support"
+      ],
+      "blocks": [
+        "Resource|Assurance",
+        "Service|Assurance",
+        "Customer|Insight"
+      ],
+      "url": "https://it.nttdata.com/news-and-events/2024/nttdata-wind3-radcom-virtualdrivetest",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Italia"
+    },
+    {
+      "id": "ref-029",
+      "title": "Vodafone 5G Standalone Roaming Hub lab co-developed with NTT DATA",
+      "client": "Vodafone Group (Vodafone Roaming Services)",
+      "industry": "Telecommunications",
+      "country": "Europe (Group)",
+      "year": "2021",
+      "summary": "Vodafone built a pre-standard 5G SA roaming hub lab, emulating roaming hub services for other operators and itself, extending its 4G/NSA roaming hub serving 90+ operators; Vodafone credits NTT DATA as development partner.",
+      "keywords": [
+        "5G standalone",
+        "roaming",
+        "roaming hub",
+        "wholesale",
+        "interconnect",
+        "network lab"
+      ],
+      "services": [
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Ecosystem|Fulfillment",
+        "Service|Environment",
+        "Resource|Environment"
+      ],
+      "url": "https://www.vodafone.com/news/technology/vodafone-pioneers-5g-sa-roaming-hub",
+      "source_type": "third-party",
+      "confidence": "high",
+      "entity": "NTT DATA (likely NTT DATA Italia 5G practice; it.nttdata.com lists it as a related case study)"
+    },
+    {
+      "id": "ref-030",
+      "title": "Fastweb VisiVa: 5G FWA virtual-reality remote visits on NTT DATA 5G Enabling Fabric",
+      "client": "Fastweb",
+      "industry": "Telecommunications",
+      "country": "Italy",
+      "year": "2020",
+      "summary": "Fastweb and NTT DATA launched VisiVa, a VR service for remote guided visits of Fastweb's Tier IV Milan data center and SOC; Fastweb provides 5G FWA + fibre, NTT DATA provides its 5G Enabling Fabric (5GEF) platform for automatic configuration of 5G use-case resources.",
+      "keywords": [
+        "5G",
+        "fixed wireless access",
+        "FWA",
+        "virtual reality",
+        "VR",
+        "network automation",
+        "data centre"
+      ],
+      "services": [
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Service|Fulfillment",
+        "Resource|Environment",
+        "Product|Engagement"
+      ],
+      "url": "https://www.fastweb.it/corporate/media/comunicati-stampa/5g-fastweb-e-ntt-data-presentano-una-soluzione-di-realta-virtuale-per-le-visite-da-remoto/",
+      "source_type": "third-party",
+      "confidence": "high",
+      "entity": "NTT DATA Italia"
+    },
+    {
+      "id": "ref-031",
+      "title": "Fastweb + Vodafone STEP FuturAbility District 'DIGITAL YOU' GenAI avatar installation",
+      "client": "Fastweb + Vodafone (STEP FuturAbility District)",
+      "industry": "Telecommunications",
+      "country": "Italy",
+      "year": "2025",
+      "summary": "NTT DATA became technology partner of Fastweb+Vodafone's STEP FuturAbility District in Milan, creating the DIGITAL YOU installation where a generative AI model developed by NTT DATA builds visitors' personalised digital avatars.",
+      "keywords": [
+        "GenAI",
+        "avatars",
+        "brand experience",
+        "marketing",
+        "innovation"
+      ],
+      "services": [
+        "Build"
+      ],
+      "blocks": [
+        "Market|Engagement",
+        "Generic|Insight"
+      ],
+      "url": "https://www.fastwebvodafone.it/area-media/comunicati-stampa/step-futurability-district-lancia-digital-you-linnovativa-installazione-in-partnership-con-ntt-data-per-creare-il-proprio-avatar-digitale-del-futuro/?lng=EN",
+      "source_type": "third-party",
+      "confidence": "high",
+      "entity": "NTT DATA Italia"
+    },
+    {
+      "id": "ref-032",
+      "title": "Sky Italia NRT Encoding: satellite bandwidth reduction up to 40%",
+      "client": "Sky Italia",
+      "industry": "Media (pay TV)",
+      "country": "Italy",
+      "year": "2013",
+      "summary": "NTT DATA in Italy developed the NRT Encoding solution for Sky Italia, compressing linear satellite channels to cut bandwidth by up to 40% at the same quality, with first channel live by June 2013.",
+      "transfer_note": "Video encoding and bandwidth optimisation for a pay-TV broadcaster applies to telco TV and video services.",
+      "keywords": [
+        "video encoding",
+        "satellite",
+        "pay TV",
+        "bandwidth",
+        "media",
+        "broadcasting"
+      ],
+      "services": [
+        "Build"
+      ],
+      "blocks": [
+        "Resource|Environment",
+        "Service|Fulfillment"
+      ],
+      "url": "https://www.svgeurope.org/blog/headlines/ntt-data-provides-encoding-solution-to-sky-italia/",
+      "source_type": "third-party",
+      "confidence": "high",
+      "entity": "NTT DATA Italia"
+    },
+    {
+      "id": "ref-033",
+      "title": "Telekom Deutschland 'Magenta Infos' frontline information management system",
+      "client": "Deutsche Telekom (Telekom Deutschland)",
+      "industry": "Telecommunications",
+      "country": "Germany",
+      "year": "not stated (doc copyright 2023)",
+      "summary": "NTT DATA with design studio Tangity redesigned Magenta Infos, the frontline information system giving Telekom Deutschland sales and service staff product, tariff and process information, from UX consulting to implementation (React SPA, GraphQL, headless CoreMedia CMS, microservices on AWS EKS, CI/CD), rolled out to many thousands of users.",
+      "keywords": [
+        "frontline staff",
+        "sales enablement",
+        "customer service",
+        "knowledge management",
+        "UX",
+        "AWS",
+        "CMS",
+        "digital channels",
+        "omnichannel"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Product|Planning",
+        "Generic|Environment"
+      ],
+      "url": "https://mc-8afc6902-e56c-432c-8c3f-3991-cdn-endpoint.azureedge.net/-/media/project/emea/de/pdf/ntt_data_success-story_gcd_telekom_de.pdf",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA DACH (Germany) + Tangity"
+    },
+    {
+      "id": "ref-034",
+      "title": "Openreach website components on Adobe Experience Manager",
+      "client": "Openreach (BT Group)",
+      "industry": "Telecommunications",
+      "country": "UK",
+      "year": "not stated (case study 2024)",
+      "summary": "NTT DATA was Openreach's development partner, building website components on Adobe Experience Manager with out-of-the-box functionality. The source does not credit NTT DATA with the Fibre Availability Checker.",
+      "keywords": [
+        "website",
+        "Adobe Experience Manager",
+        "CMS",
+        "digital channels",
+        "fibre",
+        "wholesale",
+        "web development"
+      ],
+      "services": [
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Market|Engagement",
+        "Customer|Engagement"
+      ],
+      "url": "https://business.adobe.com/uk/customer-success-stories/openreach-case-study.html",
+      "source_type": "third-party",
+      "confidence": "medium",
+      "entity": "NTT DATA UK&I"
+    },
+    {
+      "id": "ref-035",
+      "title": "Virgin Media Digital Transformation Programme",
+      "client": "Virgin Media",
+      "industry": "Telecommunications",
+      "country": "UK",
+      "year": "2020",
+      "summary": "NTT DATA was one of the partners in Virgin Media's digital transformation programme, providing consultancy, UX, design, development and testing and helping move the internal team to agile ways of working.",
+      "keywords": [
+        "digital transformation",
+        "UX",
+        "agile",
+        "digital channels",
+        "testing",
+        "consulting"
+      ],
+      "services": [
+        "Strategy",
+        "Build"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Enterprise|Planning"
+      ],
+      "url": "https://uk.nttdata.com/insights/case-studies/virgin-media-video-case-study",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA UK"
+    },
+    {
+      "id": "ref-036",
+      "title": "Virgin Media Ireland agile (SAFe) transformation",
+      "client": "Virgin Media Ireland",
+      "industry": "Telecommunications",
+      "country": "Ireland",
+      "year": "2020",
+      "summary": "NTT DATA shared SAFe agile know-how that helped Virgin Media Ireland adapt quickly and operate more flexibly during COVID-19 (video interview with John Walsh, Director of IT and Transformation).",
+      "keywords": [
+        "agile",
+        "SAFe",
+        "transformation",
+        "ways of working",
+        "operating model"
+      ],
+      "services": [
+        "Strategy"
+      ],
+      "blocks": [
+        "Enterprise|Planning"
+      ],
+      "url": "https://uk.nttdata.com/insights/case-studies/john-walsh-from-virgin-media-ireland-video",
+      "source_type": "NTT DATA",
+      "confidence": "low",
+      "entity": "NTT DATA UK&I"
+    },
+    {
+      "id": "ref-037",
+      "title": "Virgin Media O2 data-centre IT decommissioning and circularity (with n2s)",
+      "client": "Virgin Media O2",
+      "industry": "Telecommunications",
+      "country": "UK",
+      "year": "2026",
+      "summary": "NTT DATA and e-waste firm n2s signed a three-year agreement to responsibly decommission IT equipment across all of Virgin Media O2's UK data centre sites (40,000+ IT assets), with resource recovery including bioleaching.",
+      "keywords": [
+        "data centre decommissioning",
+        "IT asset disposal",
+        "circular economy",
+        "sustainability",
+        "e-waste"
+      ],
+      "services": [
+        "Support"
+      ],
+      "blocks": [
+        "Resource|Environment",
+        "Enterprise|Environment"
+      ],
+      "url": "https://www.datacenterdynamics.com/en/news/n2s-and-ntt-data-partner-to-sustainably-decommission-it-equipment-across-virgin-media-o2s-uk-data-center-portfolio/",
+      "source_type": "third-party",
+      "confidence": "high",
+      "entity": "NTT DATA UK&I"
+    },
+    {
+      "id": "ref-038",
+      "title": "Türk Telekom International: Tier-1 IP transit strategic partnership",
+      "client": "Türk Telekom International (TTI)",
+      "industry": "Telecommunications",
+      "country": "Turkey / CEE",
+      "year": "2015–2025",
+      "summary": "Türk Telekom International picked NTT (then NTT Communications) in 2015 as strategic IP transit partner; over NTT DATA's Global IP Network the service grew from 10G to 100G ports, adding capacity within three working days in the 2020 demand peak. Delivered by the former NTT Ltd network business, now part of NTT DATA Inc.",
+      "keywords": [
+        "IP transit",
+        "global IP network",
+        "wholesale",
+        "interconnect",
+        "capacity",
+        "backbone"
+      ],
+      "services": [
+        "Support"
+      ],
+      "blocks": [
+        "Ecosystem|Fulfillment",
+        "Resource|Fulfillment",
+        "Service|Assurance"
+      ],
+      "url": "https://www.nttdata.com/en-in/insights/case-studies/turk-telekom-international",
+      "source_type": "NTT DATA",
+      "confidence": "medium",
+      "entity": "NTT DATA Global IP Network (ex-NTT Communications/NTT Ltd)"
+    },
+    {
+      "id": "ref-039",
+      "title": "ITS Technology Group: DDoS protection (DPS Max) and IP transit for Eurovision 2023",
+      "client": "ITS Technology Group (wholesale full-fibre / Faster Britain)",
+      "industry": "Telecommunications",
+      "country": "UK",
+      "year": "2023",
+      "summary": "NTT DATA's Global IP Network supplied IP transit and DDoS protection to UK wholesale fibre provider ITS, which handed off broadcast and internet traffic for Eurovision 2023 in Liverpool. Delivered by the former NTT Ltd network business, now part of NTT DATA Inc.",
+      "keywords": [
+        "DDoS protection",
+        "IP transit",
+        "security",
+        "wholesale",
+        "fibre",
+        "broadcast",
+        "events"
+      ],
+      "services": [
+        "Support"
+      ],
+      "blocks": [
+        "Resource|Assurance",
+        "Generic|Assurance",
+        "Ecosystem|Fulfillment"
+      ],
+      "url": "https://www.gin.ntt.net/wp-content/uploads/ITS-Case-Study-2024.pdf",
+      "source_type": "NTT DATA",
+      "confidence": "medium",
+      "entity": "NTT DATA, Inc. – Global IP Network"
+    },
+    {
+      "id": "ref-040",
+      "title": "SES satellite operator: SAP HANA migration and managed hosting",
+      "client": "SES",
+      "industry": "Satellite communications",
+      "country": "Luxembourg (hosted in Bautzen, Germany)",
+      "year": "2016 (start)",
+      "summary": "NTT DATA Business Solutions runs SES's SAP landscape as managed hosting from its Bautzen data centre, migrated ~20 databases to SAP HANA/Sybase with replicated HA, upgraded SAP apps (S/4HANA, ERP, CRM, BW, GTS) and provides ongoing support.",
+      "transfer_note": "SAP hosting and managed operations for a satellite operator transfer directly to a telco's ERP and back-office estate.",
+      "keywords": [
+        "SAP",
+        "SAP HANA",
+        "S/4HANA",
+        "ERP",
+        "managed hosting",
+        "satellite",
+        "finance"
+      ],
+      "services": [
+        "Integration",
+        "Support"
+      ],
+      "blocks": [
+        "Enterprise|Accounting",
+        "Generic|Environment"
+      ],
+      "url": "https://nttdata-solutions.com/us/success-stories/ses-2/",
+      "source_type": "NTT DATA",
+      "confidence": "medium",
+      "entity": "NTT DATA Business Solutions (ex-itelligence)"
+    },
+    {
+      "id": "ref-041",
+      "title": "TM Forum Catalyst 'Boosting AIOps for Full Hybrid NaaS' (everis with Telefónica)",
+      "client": "Telefónica (with American Tower, Vlocity/Salesforce, Verbio)",
+      "industry": "Telecommunications",
+      "country": "Spain",
+      "year": "2020",
+      "summary": "everis led a TM Forum Catalyst with Telefónica, American Tower, Verbio and Vlocity applying AI to IT and network operations (AIOps) to launch a new Network-as-a-Service offer for hybrid enterprise connectivity.",
+      "keywords": [
+        "AIOps",
+        "network as a service",
+        "NaaS",
+        "hybrid connectivity",
+        "AI",
+        "TM Forum Catalyst",
+        "enterprise connectivity"
+      ],
+      "services": [
+        "Strategy",
+        "Build"
+      ],
+      "blocks": [
+        "Service|Assurance",
+        "Product|Intention",
+        "Generic|Insight"
+      ],
+      "url": "https://www.everis.com/global/en/news/newsroom/everis-takes-part-2020-tm-forums-catalyst-program",
+      "source_type": "NTT DATA",
+      "confidence": "medium",
+      "entity": "everis (NTT DATA Spain)"
+    },
+    {
+      "id": "ref-042",
+      "title": "Salesforce Energy & Utilities Cloud CRM across sales, post-sales and customer service",
+      "client": "Eleia Energía",
+      "industry": "Energy & Utilities",
+      "country": "Spain (operates in Spain, Brazil, Mexico)",
+      "year": "not stated",
+      "summary": "NTT DATA set up Eleia's lead-to-after-sales CRM on Salesforce Energy & Utilities Cloud with Sales, Service, Experience and Marketing Cloud, MuleSoft and Service Cloud Voice, moving 100% of processes to the platform standard. The source reports contracting time cut by 30% and customer service time cut by 50%, plus automatic case routing.",
+      "transfer_note": "An energy retailer's multi-channel contracting and service CRM corresponds directly to telco B2C/B2B order capture, care and case routing (Salesforce Communications Cloud is the telco equivalent).",
+      "keywords": [
+        "digital channels",
+        "Salesforce Energy & Utilities Cloud",
+        "Service Cloud Voice",
+        "Experience Cloud",
+        "MuleSoft",
+        "customer 360",
+        "utility retail CRM"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Sales|Engagement",
+        "Customer|Engagement",
+        "Sales|Fulfillment"
+      ],
+      "url": "https://es.nttdata.com/documents/study-cases/ntt-data-case-study-eleia-energia-salesforce.pdf",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Spain"
+    },
+    {
+      "id": "ref-043",
+      "title": "Genesys Cloud omnichannel contact centre with a regulated gas-leak emergency flow",
+      "client": "Comnexio (customer-contact subsidiary of ORES)",
+      "industry": "Energy & Utilities",
+      "country": "Belgium",
+      "year": "not stated (published 2026)",
+      "summary": "NTT DATA recommended and delivered a Genesys Cloud CX platform covering voice, email, chat and social, with an emergency flow that alerts every agent instantly, and ran the change management. The source reports 2K calls per month resolved without a human and gas-leak calls answered in 3.4 seconds, against a 5-second regulatory limit.",
+      "transfer_note": "Regulated emergency routing and cloud omnichannel care correspond to telco outage and fault hotlines and to contact-centre modernisation under SLA and regulatory obligations.",
+      "keywords": [
+        "digital channels",
+        "Genesys Cloud CX",
+        "omnichannel contact center",
+        "emergency call routing",
+        "self-service IVR",
+        "utility customer service"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration",
+        "Support"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Service|Assurance"
+      ],
+      "url": "https://uy.nttdata.com/insights/case-studies/centro-de-contacto-confiable-e-innovador-en-genesys-cloud-para-comnexio-de-ores",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA (Benelux / Genesys practice)"
+    },
+    {
+      "id": "ref-044",
+      "title": "Omnichannel Salesforce sales platform across web, app and dealership, with AI",
+      "client": "Volkswagen Group España Distribución (VGED)",
+      "industry": "Automotive",
+      "country": "Spain",
+      "year": "2024–2026 (fleet live late 2024; retail rollout Q3 2026)",
+      "summary": "NTT DATA built a Salesforce and MuleSoft platform that digitises the vehicle sales cycle from comparison to offer, contract and after-sales, so a journey can move between web, app and dealership. It adds AI semantic search for stock and auto-generated customer history for the contact centre. The source reports 50% less time to generate offers, 20% fewer proposal errors, and the Salesforce Partner Innovation Award 2025 (Automotive).",
+      "transfer_note": "Continuing a journey across online, app and physical store, plus AI-assisted quoting, corresponds to telco retail and shop assisted sales, device-plus-plan quotes and B2B fleet offers.",
+      "keywords": [
+        "digital channels",
+        "omnichannel sales",
+        "Salesforce Automotive Cloud",
+        "MuleSoft",
+        "CPQ offers",
+        "AI semantic search",
+        "dealer network"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Sales|Engagement",
+        "Sales|Fulfillment",
+        "Customer|Insight"
+      ],
+      "url": "https://es.nttdata.com/insights/case-studies/volkswagen-group-espana-distribucion-impulsa-su-eficiencia-comercial-con-ia",
+      "source_type": "NTT DATA",
+      "confidence": "medium",
+      "entity": "NTT DATA Spain (CRM Solutions)"
+    },
+    {
+      "id": "ref-045",
+      "title": "Hogami home-services marketplace (web and mobile) for Leroy Merlin",
+      "client": "Leroy Merlin (Hogami)",
+      "industry": "Retail",
+      "country": "Spain",
+      "year": "2020 (launch); case study published 2023",
+      "summary": "NTT DATA ran the market study, business case and prototype, then built Hogami on Google Cloud with microservices, API management, mobile apps and augmented-reality features for both customers and service providers. The source reports 400 operations in the first three months, 45% of operations rated, and a 4.89 satisfaction score.",
+      "transfer_note": "A two-sided marketplace for booking installers corresponds to telco home-services and technician-booking journeys (fibre installs, smart-home setup) and to partner ecosystem marketplaces.",
+      "keywords": [
+        "digital channels",
+        "marketplace",
+        "home services",
+        "mobile app",
+        "Google Cloud",
+        "API management",
+        "augmented reality"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Ecosystem|Engagement",
+        "Sales|Engagement",
+        "Service|Fulfillment"
+      ],
+      "url": "https://es.nttdata.com/insights/case-studies/hogami-una-plataforma-online-de-servicios-para-el-hogar",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Spain"
+    },
+    {
+      "id": "ref-046",
+      "title": "Customer data platform with Salesforce Data Cloud, Identity, Marketing Cloud and Personalization",
+      "client": "Grupo Anaya",
+      "industry": "Media",
+      "country": "Spain",
+      "year": "2025",
+      "summary": "NTT DATA built a single customer view on Salesforce Data Cloud from scattered systems, added Salesforce Identity for unified login, Marketing Cloud for segmented automated campaigns, and Personalization Builder for behaviour-based content. The source reports more than 900,000 unique customers consolidated on one platform.",
+      "transfer_note": "A CDP with unified identity and real-time personalisation corresponds to telco customer 360, single sign-on across brands and apps, and next-best-offer campaigns.",
+      "keywords": [
+        "digital channels",
+        "CDP",
+        "Salesforce Data Cloud",
+        "Marketing Cloud",
+        "personalisation",
+        "customer identity",
+        "single customer view"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Customer|Insight",
+        "Market|Engagement",
+        "Customer|Engagement"
+      ],
+      "url": "https://cl.nttdata.com/insights/case-studies/grupo-anaya-revoluciona-su-gestion-de-clientes-con-salesforce-data-cloud",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Spain"
+    },
+    {
+      "id": "ref-047",
+      "title": "Mi Carpeta Ciudadana: multichannel citizen portal, app and AI assistant",
+      "client": "Agencia Estatal de Administración Digital (Spanish Government)",
+      "industry": "Public sector",
+      "country": "Spain",
+      "year": "not stated (published 2026)",
+      "summary": "NTT DATA delivered a renewed web portal, iOS/Android apps and an AI conversational assistant that gives citizens one access point for case files, alerts, appointments and notifications across ministries, regions and councils. The source reports more than 8M unique users, more than 8M app downloads, about 85M accesses, and an average of 140,000 assistant conversations per month.",
+      "transfer_note": "A national-scale single self-service front door with notifications and an AI assistant corresponds to a telco 'My Account' super-app that brings billing, orders, faults and appointments into one place.",
+      "keywords": [
+        "digital channels",
+        "self-service portal",
+        "mobile app",
+        "conversational assistant",
+        "notifications",
+        "citizen experience",
+        "super-app"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration",
+        "Support"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Service|Engagement"
+      ],
+      "url": "https://es.nttdata.com/insights/case-studies/carpeta-ciudadana-gestion-sencilla-con-la-administracion-publica",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Spain (Public sector)"
+    },
+    {
+      "id": "ref-048",
+      "title": "Cuenta Digital: a personalised citizen app and web with new digital identity, on AWS",
+      "client": "Madrid Digital (Comunidad de Madrid)",
+      "industry": "Public sector",
+      "country": "Spain",
+      "year": "2025",
+      "summary": "NTT DATA built the cloud architecture on AWS and created Cuenta Digital (iOS, Android and web), with a new digital identity, several login methods, and AI/data-driven personalised recommendations for services such as the youth card and certificates. The source reports 672,907 users, 93,874 app downloads, 3.69M accesses and 610,345 transactions.",
+      "transfer_note": "Digital identity, multiple login methods and AI-personalised recommendations in a self-service app correspond to telco app login, eKYC and personalised offers.",
+      "keywords": [
+        "digital channels",
+        "digital identity",
+        "mobile app",
+        "personalised recommendations",
+        "AWS",
+        "open source",
+        "self-service"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Customer|Insight"
+      ],
+      "url": "https://es.nttdata.com/insights/case-studies/madrid-transforma-la-relacion-de-los-ciudadanos-con-la-administracion",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Spain"
+    },
+    {
+      "id": "ref-049",
+      "title": "New Carpeta Ciudadana: native apps, web, and a 360 launch campaign by Tangity",
+      "client": "Junta de Andalucía",
+      "industry": "Public sector",
+      "country": "Spain",
+      "year": "2024 (launch); published 2025",
+      "summary": "NTT DATA built two native apps and an Angular web front end on Spring Boot APIs, with WSO2 interoperability and Redis caching, covering 420+ procedures, certificates, appointments and digital cards. Tangity ran the 360 launch campaign. The source reports 840K+ total users and more than 100,000 appointments booked.",
+      "transfer_note": "Pairing app and API delivery with a launch campaign to drive digital adoption corresponds to telco efforts to move customers onto app-first service channels.",
+      "keywords": [
+        "digital channels",
+        "native mobile apps",
+        "API integration",
+        "WSO2",
+        "digital adoption campaign",
+        "Tangity",
+        "appointments"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Market|Engagement"
+      ],
+      "url": "https://es.nttdata.com/insights/case-studies/nueva-carpeta-ciudadana-de-la-junta-de-andalucia",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Spain + Tangity"
+    },
+    {
+      "id": "ref-050",
+      "title": "Acelera pyme: SME digitalisation platform with self-diagnosis tools",
+      "client": "Red.es",
+      "industry": "Public sector",
+      "country": "Spain",
+      "year": "not stated (published 2026)",
+      "summary": "NTT DATA designed, built and evolves the Drupal-based Acelera pyme platform, which offers self-diagnosis of digital maturity, a resource centre and a technology meeting point for SMEs and freelancers. The source reports 1.8M SMEs and freelancers registered and more than 62M visits.",
+      "transfer_note": "A self-diagnosis and guided-content portal for SMEs corresponds to telco SMB digital storefronts that assess needs and recommend connectivity and cloud bundles.",
+      "keywords": [
+        "digital channels",
+        "SME portal",
+        "self-assessment",
+        "content platform",
+        "Drupal",
+        "B2B SMB engagement"
+      ],
+      "services": [
+        "Build",
+        "Support"
+      ],
+      "blocks": [
+        "Market|Engagement",
+        "Sales|Engagement"
+      ],
+      "url": "https://es.nttdata.com/insights/case-studies/el-acelerador-de-la-transformacion-digital-de-las-empresas",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Spain"
+    },
+    {
+      "id": "ref-051",
+      "title": "Donor CRM on Microsoft Dynamics 365 with automated multichannel campaigns",
+      "client": "Banc de Sang i Teixits (BST)",
+      "industry": "Healthcare",
+      "country": "Spain (Catalonia)",
+      "year": "not stated (published 2026)",
+      "summary": "NTT DATA designed and implemented Dynamics 365 as BST's donor CRM, with an automated donor-call module, Power BI/Azure reporting, segmentation and multichannel communications. The source reports 100% paper removed, 212% more digital communications, 429% SMS growth, and 100% automation of donor calls.",
+      "transfer_note": "Segmented, automated outbound engagement over SMS and digital channels in Dynamics 365 corresponds to telco retention and loyalty campaigns and proactive notifications.",
+      "keywords": [
+        "digital channels",
+        "Microsoft Dynamics 365",
+        "CRM",
+        "SMS campaigns",
+        "segmentation",
+        "Power BI",
+        "marketing automation"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration",
+        "Support"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Market|Engagement",
+        "Customer|Insight"
+      ],
+      "url": "https://es.nttdata.com/insights/case-studies/banc-de-sang-teixits-revoluciona-su-relacion-con-los-donantes-gracias-la-nube",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Spain (Microsoft practice)"
+    },
+    {
+      "id": "ref-052",
+      "title": "Bilingual voice assistant for pharmacy appointments on Amazon Connect and Lex",
+      "client": "Hospital Universitario Son Espases",
+      "industry": "Healthcare",
+      "country": "Spain",
+      "year": "2023",
+      "summary": "NTT DATA piloted a voice conversational assistant on Amazon Connect, Lex and Lambda that books patient appointments in Catalan and Spanish, combines bots with human agents, and runs real-time satisfaction surveys. The source reports 70% of appointments automated, 70% intent understanding, 100% availability during the pilot, a 52% drop in absenteeism (cited by the CIO), and the ENNOVA Health award.",
+      "transfer_note": "A voicebot that books appointments with system integration corresponds to telco technician-visit scheduling and IVR self-service deflection.",
+      "keywords": [
+        "digital channels",
+        "voicebot",
+        "Amazon Connect",
+        "Amazon Lex",
+        "appointment booking",
+        "multilingual IVR",
+        "conversational AI"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Service|Engagement"
+      ],
+      "url": "https://es.nttdata.com/insights/case-studies/modernizacion-de-la-gestion-de-citas-en-el-servicio-de-farmacia-hospitalaria",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Spain (AWS practice)"
+    },
+    {
+      "id": "ref-053",
+      "title": "Voice-AI field sales app feeding Salesforce CRM with auto-summarised visits",
+      "client": "Damm",
+      "industry": "Retail",
+      "country": "Spain",
+      "year": "2025",
+      "summary": "NTT DATA added voice dictation to Damm's sales reps' mobile CRM: AI transcribes and summarises visit notes and auto-fills CRM fields, and reps get a daily AI-prepared agenda (Salesforce Einstein for Sales, with Data Cloud planned). The source gives only qualitative results: less admin work and more complete data.",
+      "transfer_note": "Voice-first, AI-assisted CRM for field sales corresponds to telco B2B account managers and retail or dealer field teams.",
+      "keywords": [
+        "digital channels",
+        "voice AI",
+        "Salesforce Einstein",
+        "field sales",
+        "mobile CRM",
+        "generative AI summaries",
+        "Agentforce"
+      ],
+      "services": [
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Sales|Engagement",
+        "Customer|Insight"
+      ],
+      "url": "https://es.nttdata.com/insights/case-studies/damm-revoluciona-gestion-ia-voz",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Spain"
+    },
+    {
+      "id": "ref-054",
+      "title": "'Lore' GenAI beauty advisor on WhatsApp and Instagram for social commerce",
+      "client": "L'Oréal Chile",
+      "industry": "Retail",
+      "country": "Chile",
+      "year": "not stated (c. 2024)",
+      "summary": "NTT DATA built Lore on its Syntphony Conversational AI platform with Azure OpenAI, giving hyper-personalised beauty advice and supporting purchases on Instagram and WhatsApp. The source reports only qualitative outcomes, such as better shopping experience and competitiveness in social commerce.",
+      "transfer_note": "GenAI guided selling inside messaging apps corresponds to telco conversational commerce for device and plan recommendations on WhatsApp.",
+      "keywords": [
+        "digital channels",
+        "conversational commerce",
+        "WhatsApp",
+        "Instagram",
+        "Syntphony Conversational AI",
+        "Azure OpenAI",
+        "guided selling"
+      ],
+      "services": [
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Sales|Engagement",
+        "Market|Engagement"
+      ],
+      "url": "https://conversational-ai.syntphony.com/loreal-case-study/",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA (Syntphony / NTT DATA Chile)"
+    },
+    {
+      "id": "ref-055",
+      "title": "'Laia' generative-AI virtual assistant for insurance customer service and sales",
+      "client": "Galicia Seguros",
+      "industry": "Insurance",
+      "country": "Argentina",
+      "year": "2024",
+      "summary": "Galicia Seguros launched Laia, developed with Microsoft and NTT DATA, to cover sales advice, underwriting, service, claims and fraud prevention, starting with Banco Galicia and Naranja X customers. Policy queries were 30% of contact-centre calls, and the company expects a 2X return within 12 months.",
+      "transfer_note": "A GenAI assistant that handles queries and contextual sales corresponds to telco agentic care for bill and plan questions and in-conversation upsell.",
+      "keywords": [
+        "digital channels",
+        "generative AI assistant",
+        "virtual agent",
+        "Microsoft Azure OpenAI",
+        "contact centre deflection",
+        "insurance customer service"
+      ],
+      "services": [
+        "Strategy",
+        "Build"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Sales|Engagement"
+      ],
+      "url": "https://www.forbesargentina.com/negocios/galicia-seguros-lanza-asistente-virtual-inteligencia-generativa-optimizar-atencion-cliente-n53972",
+      "source_type": "third-party",
+      "confidence": "medium",
+      "entity": "NTT DATA Argentina"
+    },
+    {
+      "id": "ref-056",
+      "title": "Multi-agent GenAI WhatsApp assistant and claims-reimbursement automation",
+      "client": "SURA",
+      "industry": "Insurance",
+      "country": "Latin America (country not stated)",
+      "year": "not stated (c. 2024–2025)",
+      "summary": "NTT DATA built a WhatsApp GenAI chatbot that answers using each customer's own policy, with a supervisor agent routing questions to specialised bots, plus OCR and GenAI reimbursement automation. The source reports 80% efficiency in processing refunds, reached within 3 months.",
+      "transfer_note": "Multi-agent routing grounded in each customer's own contract corresponds to telco agentic care that answers from the customer's plan, bill and usage.",
+      "keywords": [
+        "digital channels",
+        "agentic AI",
+        "multi-agent",
+        "WhatsApp chatbot",
+        "generative AI",
+        "RAG on customer contract",
+        "claims automation"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Service|Engagement",
+        "Generic|Insight"
+      ],
+      "url": "https://www.nttdata.com/en-kr/insights/case-studies/sura-enhances-customer-experience-and-streamlines-reimbursement-processes-with-the-power-of-genai",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA (LatAm)"
+    },
+    {
+      "id": "ref-057",
+      "title": "Cloud contact centre on Genesys with chat, web, email and video for 4.5M members",
+      "client": "Christelijke Mutualiteit (CM)",
+      "industry": "Insurance",
+      "country": "Belgium",
+      "year": "not stated (published 2026)",
+      "summary": "NTT DATA stood up an emergency Genesys Cloud fallback within a week, then won the tender and rolled out a centralised cloud contact centre for 1,000+ agents with chat, web, email and video in Dutch and French, plus workforce management. The source reports email handling time cut from 6m30s to 3m40s and a video channel at about 500 interactions per month.",
+      "transfer_note": "A large multilingual cloud contact centre with video and WFM corresponds to telco care operations serving millions of subscribers.",
+      "keywords": [
+        "digital channels",
+        "Genesys Cloud",
+        "omnichannel contact centre",
+        "video channel",
+        "workforce management",
+        "multilingual care"
+      ],
+      "services": [
+        "Build",
+        "Integration",
+        "Support"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Service|Assurance"
+      ],
+      "url": "https://uk.nttdata.com/insights/case-studies/cm-healthcare-contact-center",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Belgium"
+    },
+    {
+      "id": "ref-058",
+      "title": "Genesys Cloud omnichannel contact centre for passenger service",
+      "client": "LOT Polish Airlines",
+      "industry": "Airlines & Travel",
+      "country": "Poland",
+      "year": "not stated (published 2026)",
+      "summary": "NTT DATA replaced four systems with a single Genesys Cloud CX platform combining phone, email, messaging apps and social, rolled out step by step around peak seasons. The source reports response times cut by 50% on WhatsApp and Messenger and by 75% on email, with 1.25M+ contacts per year.",
+      "transfer_note": "Consolidating messaging, social and voice under peak-demand pressure corresponds to telco care during launches and outages.",
+      "keywords": [
+        "digital channels",
+        "Genesys Cloud CX",
+        "WhatsApp",
+        "Messenger",
+        "social customer care",
+        "omnichannel",
+        "airline"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration",
+        "Support"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Service|Engagement"
+      ],
+      "url": "https://uk.nttdata.com/insights/case-studies/lot-polish-airlines",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA (CX / Genesys practice, Europe)"
+    },
+    {
+      "id": "ref-059",
+      "title": "Modernised customer service platform: Genesys Cloud integrated with Salesforce Service Cloud",
+      "client": "SIXT",
+      "industry": "Airlines & Travel",
+      "country": "Germany (global, 100+ countries)",
+      "year": "2025",
+      "summary": "NTT DATA delivered Genesys Cloud integrated with Salesforce Service Cloud and Microsoft Teams over nine months, enabling SIXT's own team to run the migration and using concurrent licensing across shifts. The source gives only qualitative results: faster in-house changes, less admin and higher agent satisfaction.",
+      "transfer_note": "CCaaS-to-CRM integration with the client team trained to run the migration corresponds to telco care-stack modernisation programmes.",
+      "keywords": [
+        "digital channels",
+        "Genesys Cloud",
+        "Salesforce Service Cloud",
+        "CCaaS",
+        "contact centre migration",
+        "mobility"
+      ],
+      "services": [
+        "Build",
+        "Integration",
+        "Support"
+      ],
+      "blocks": [
+        "Customer|Engagement"
+      ],
+      "url": "https://uk.nttdata.com/insights/case-studies/sixt-modernizes-customer-service-platform",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA DACH"
+    },
+    {
+      "id": "ref-060",
+      "title": "GenAI case classification, agent copilot and Agentforce agentic PoC for customer service",
+      "client": "Italiaonline",
+      "industry": "Media",
+      "country": "Italy",
+      "year": "2024–2026",
+      "summary": "With Salesforce, NTT DATA deployed AI that reads, classifies and routes customer emails, is building an operator copilot, and built an Agentforce PoC where an AI agent opens, resolves and closes tickets. Churn prediction and cross-sell are planned next. The source reports about 70% of cases routed correctly, about 14% handled fully by AI, and resolution time down from 2.28 to 1.76 days.",
+      "transfer_note": "The progression from AI triage to copilot to autonomous agent maps to telco agentic-AI care, with churn and cross-sell models as the next step.",
+      "keywords": [
+        "digital channels",
+        "agentic AI",
+        "Salesforce Agentforce",
+        "agent copilot",
+        "email triage",
+        "churn prediction",
+        "customer service automation"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Customer|Insight",
+        "Generic|Insight"
+      ],
+      "url": "https://it.nttdata.com/insights/case-studies/italiaonline-ai-generativa-customer-service",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Italia"
+    },
+    {
+      "id": "ref-061",
+      "title": "Redesign of home banking and website with the 'Bricks' accessible design system",
+      "client": "UniCredit",
+      "industry": "Banking",
+      "country": "Italy",
+      "year": "2022",
+      "summary": "NTT DATA's design studio Tangity created the 'Bricks' design system and redesigned UniCredit's home banking platform and public website as one consistent, accessible experience, tested with more than 14,000 users.",
+      "transfer_note": "A cross-touchpoint design system for a large regulated brand corresponds to telco multi-brand app and web consistency and accessibility compliance.",
+      "keywords": [
+        "digital channels",
+        "design system",
+        "UX redesign",
+        "accessibility",
+        "home banking",
+        "responsive web",
+        "Tangity"
+      ],
+      "services": [
+        "Strategy",
+        "Build"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Market|Engagement"
+      ],
+      "url": "https://it.nttdata.com/insights/case-studies/ntt-data-per-nuova-app-unicredit",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "Tangity (NTT DATA Design Studio), NTT DATA Italia"
+    },
+    {
+      "id": "ref-062",
+      "title": "Global mobile banking app: UX and content design toward conversational banking",
+      "client": "UniCredit (with HypoVereinsbank and Bank Austria)",
+      "industry": "Banking",
+      "country": "Italy, Germany, Austria",
+      "year": "2017–2020",
+      "summary": "Tangity provided end-to-end UX and content design, from concept through app-store release, including prospect product discovery, a light loyalty programme and remote contract signing. The source reports 2M+ users (March 2020), a 4.25 rating from 250,000+ reviews, and Italy's Product of the Year 2020.",
+      "transfer_note": "Prospect onboarding, remote contract signing and in-app loyalty correspond to telco app-based acquisition, digital contract signature and loyalty.",
+      "keywords": [
+        "digital channels",
+        "mobile banking app",
+        "conversational banking",
+        "UX design",
+        "remote signing",
+        "loyalty programme",
+        "multi-country"
+      ],
+      "services": [
+        "Strategy",
+        "Build"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Sales|Engagement"
+      ],
+      "url": "https://tangity.design/en/works/unicredit-global-mobile-banking-app",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "Tangity (NTT DATA Design Studio)"
+    },
+    {
+      "id": "ref-063",
+      "title": "Lavazza Voicy: Alexa voice coffee machine with app, e-store reordering and Dash Replenishment",
+      "client": "Lavazza",
+      "industry": "Retail",
+      "country": "Italy",
+      "year": "2021",
+      "summary": "NTT DATA and Tangity designed the voice UX, persona and conversations, and built the AWS architecture for an Alexa-enabled coffee machine. Its companion app connects to the Lavazza store and Amazon for personalisation, capsule reordering and troubleshooting. The source reports no metrics.",
+      "transfer_note": "A connected-device voice experience with automatic replenishment and remote support corresponds to telco smart-home and IoT services with device self-care.",
+      "keywords": [
+        "digital channels",
+        "voice assistant",
+        "Amazon Alexa",
+        "connected device",
+        "auto-replenishment",
+        "companion app",
+        "IoT"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Product|Engagement",
+        "Sales|Engagement"
+      ],
+      "url": "https://it.nttdata.com/insights/case-studies/lavazza-voicy-macchina-caffe-comando-vocale",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Italia + Tangity"
+    },
+    {
+      "id": "ref-064",
+      "title": "Unified personalised fan app for Arsenal's global supporters",
+      "client": "Arsenal Football Club",
+      "industry": "Media",
+      "country": "United Kingdom",
+      "year": "not stated (published 2026)",
+      "summary": "As Arsenal's Official Digital Transformation Partner, NTT DATA delivered a single always-on app with personalised experiences, including news, player stats, videos, calendar-synced fixtures, and ticket purchase and transfer, for supporters in 200+ countries. The source reports no performance metrics.",
+      "transfer_note": "A personalised content-plus-commerce engagement app corresponds to telco loyalty, entertainment and content-bundle apps.",
+      "keywords": [
+        "digital channels",
+        "fan engagement app",
+        "personalisation",
+        "ticketing",
+        "content platform",
+        "loyalty"
+      ],
+      "services": [
+        "Strategy",
+        "Build"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Market|Engagement"
+      ],
+      "url": "https://uk.nttdata.com/insights/case-studies/arsenal-app-personalised-fan-experience",
+      "source_type": "NTT DATA",
+      "confidence": "medium",
+      "entity": "NTT DATA UK&I"
+    },
+    {
+      "id": "ref-065",
+      "title": "AI-assisted call centre: real-time transcription, emotion analysis and FAQ suggestions",
+      "client": "Japan Post Bank",
+      "industry": "Banking",
+      "country": "Japan",
+      "year": "2018–2021 (PoC 2018; commercial January 2021)",
+      "summary": "NTT DATA introduced ForeSight Voice Mining, which provides real-time speech-to-text, emotion analysis, automatic FAQ search and summaries, integrated with CTI and CRM. The source reports average handle time for new agents cut by close to 30% and FAQ answer accuracy of about 80%.",
+      "transfer_note": "Real-time agent assist with transcription and auto-summary corresponds directly to telco contact-centre AHT reduction.",
+      "keywords": [
+        "digital channels",
+        "agent assist",
+        "speech analytics",
+        "real-time transcription",
+        "emotion analysis",
+        "contact centre AI",
+        "CTI CRM integration"
+      ],
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Generic|Insight"
+      ],
+      "url": "https://www.nttdata.com/global/en/insights/client-cases/2020/september/revolutionize-non-face-to-face-channels-with-ai",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA Japan"
+    },
+    {
+      "id": "ref-066",
+      "title": "Cloud contact centre migration to Amazon Connect with Salesforce CRM",
+      "client": "Capitec",
+      "industry": "Banking",
+      "country": "South Africa",
+      "year": "2025",
+      "summary": "NTT DATA moved Capitec's on-premises contact centre (about 2,000 agents) to Amazon Connect, integrated it with Salesforce CRM and live dashboards, and added chatbot and live chat. The source reports 600+ agents across two critical centres migrated in five days and a 95% SLA on day two.",
+      "transfer_note": "A fast, low-risk CCaaS cut-over at scale corresponds to telco contact-centre cloud migrations.",
+      "keywords": [
+        "digital channels",
+        "Amazon Connect",
+        "CCaaS",
+        "Salesforce CRM",
+        "chatbot",
+        "live chat",
+        "contact centre migration"
+      ],
+      "services": [
+        "Build",
+        "Integration",
+        "Support"
+      ],
+      "blocks": [
+        "Customer|Engagement",
+        "Service|Engagement"
+      ],
+      "url": "https://uk.nttdata.com/insights/case-studies/capitec-amazon-connect",
+      "source_type": "NTT DATA",
+      "confidence": "high",
+      "entity": "NTT DATA (Middle East & Africa)"
+    },
+    {
+      "id": "ref-067",
+      "title": "Multi-country e-commerce rollout on SAP Commerce Cloud",
+      "client": "Smyths Toys",
+      "industry": "Retail",
+      "country": "UK, Ireland, Germany, Austria, Switzerland",
+      "year": "2018",
+      "summary": "NTT DATA Business Solutions implemented and supports SAP Commerce Cloud (Hybris) to launch e-commerce sites quickly in three newly entered countries, with a modular rollout and cloud infrastructure. The source reports Black Friday 2018 turnover up 30%, partly credited to the project.",
+      "transfer_note": "A modular, multi-country SAP Commerce rollout corresponds to telco online shops for devices and accessories and to opco template rollouts.",
+      "keywords": [
+        "digital channels",
+        "e-commerce",
+        "SAP Commerce Cloud",
+        "Hybris",
+        "multi-country rollout",
+        "peak trading"
+      ],
+      "services": [
+        "Build",
+        "Integration",
+        "Support"
+      ],
+      "blocks": [
+        "Sales|Engagement",
+        "Sales|Fulfillment"
+      ],
+      "url": "https://nttdata-solutions.com/my/success-stories/smyths-toys-sap-commerce-cloud/",
+      "source_type": "NTT DATA",
+      "confidence": "medium",
+      "entity": "NTT DATA Business Solutions"
+    }
+  ],
+  "offerings": [
+    {
+      "id": "off-001",
+      "name": "Telco, Media & Technology industry practice (offering catalogue)",
+      "description": "NTT DATA (ex-everis lineage) TMT practice listing B2B Transformation & Sales, 5G & Infrastructure, Operations, Channels & Digital Interactions, Digital Services, IT Transformation, Data-driven Telco, Cloud, Media, Security and Consulting; plus Syntphony asset platform.",
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration",
+        "Support"
+      ],
+      "domains": [
+        "Sales",
+        "Customer",
+        "Product",
+        "Service",
+        "Resource/network",
+        "Enterprise/back-office",
+        "Data/AI/security cross-cutting"
+      ],
+      "url": "https://mar.nttdata.com/industries/telco-media-technology"
+    },
+    {
+      "id": "off-002",
+      "name": "Open Telecom Network (Open OSS, Telecom Cloud, Open Gateway, AI/GenAI, Open RAN, Network Monetization)",
+      "description": "NTT DATA's layered open-architecture network proposition for CSPs: multi-vendor Open OSS, network functions on private/public cloud, network API exposure/monetization (Open Gateway, announced MWC 2023), GenAI for network ops, Open RAN integration and monetization strategy.",
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration"
+      ],
+      "domains": [
+        "Resource/network",
+        "Service",
+        "Ecosystem/partners/wholesale",
+        "Data/AI/security cross-cutting"
+      ],
+      "url": "https://www.nttdata.com/global/en/insights/focus/2024/ntt-data-are-with-csps-in-the-evolution-of-the-telecom-network"
+    },
+    {
+      "id": "off-003",
+      "name": "Network management / OSS-BSS implementation, network slicing orchestration, Open Gateway NaaS",
+      "description": "Multi-vendor network management with connector catalogue and inventory, BSS/OSS implementation (e.g. for Telefonica FibreCos), closed-loop dynamic slicing, Open Gateway NaaS (SIM Swap API), telco-tailored GenAI; cloud-native deployable. Notes NTT DATA in 7th year as TM Forum Catalyst contributor.",
+      "services": [
+        "Build",
+        "Integration"
+      ],
+      "domains": [
+        "Resource/network",
+        "Service",
+        "Ecosystem/partners/wholesale",
+        "Data/AI/security cross-cutting"
+      ],
+      "url": "https://www.telcotitans.com/network-and-it/ntt-data-embracing-open-network-to-monetise-telco-investment/8392.article"
+    },
+    {
+      "id": "off-004",
+      "name": "Open Gateway / network API monetization (CAMARA + TM Forum Open APIs)",
+      "description": "Advisory and implementation for exposing network capabilities via GSMA Open Gateway/CAMARA service APIs and TM Forum operate APIs; NTT DATA-led Catalyst series on network service monetization.",
+      "services": [
+        "Strategy",
+        "Build",
+        "Integration"
+      ],
+      "domains": [
+        "Product",
+        "Ecosystem/partners/wholesale",
+        "Resource/network"
+      ],
+      "url": "https://www.nttdata.com/global/en/insights/focus/2025/open-gateway-network-service-monetization-through-standardized-apis"
+    },
+    {
+      "id": "off-005",
+      "name": "AWS cloud solutions for telecom (CNF cloudification, BSS/OSS API layer, network mapping, conversational AI)",
+      "description": "Design/install/support of AWS telco platforms: VM-to-container network function migration (CreEdgeOn, IaC, edge), decoupled MEF-aligned BSS/OSS public API layer on EKS, satellite 3D network mapping, CX chatbots.",
+      "services": [
+        "Build",
+        "Integration",
+        "Support"
+      ],
+      "domains": [
+        "Resource/network",
+        "Ecosystem/partners/wholesale",
+        "Customer",
+        "Data/AI/security cross-cutting"
+      ],
+      "url": "https://uk.nttdata.com/aws-cloud-solutions-for-the-telecom-industry"
+    },
+    {
+      "id": "off-006",
+      "name": "AWS Telecommunications Services Competency (OSS category)",
+      "description": "AWS-validated competency (Sep 2023) for OSS and telco workload cloudification projects.",
+      "services": [
+        "Build",
+        "Integration"
+      ],
+      "domains": [
+        "Resource/network",
+        "Service"
+      ],
+      "url": "https://uk.nttdata.com/news/ntt-data-achieves-the-aws-telecommunications-services-competency"
+    },
+    {
+      "id": "off-007",
+      "name": "Private 5G / Network-as-a-Service",
+      "description": "Network design, infrastructure integration, device management, application enablement and managed services; global private 5G NaaS platform (prepaid/pay-as-you-go). Named Major Player in IDC MarketScape European Enterprise Private 5G 2025.",
+      "services": [
+        "Build",
+        "Integration",
+        "Support"
+      ],
+      "domains": [
+        "Resource/network",
+        "Product",
+        "Ecosystem/partners/wholesale"
+      ],
+      "url": "https://www.nttdata.com/de-at/news/2025/ntt-data-als-major-player-im-idc-marketscape-2025-fuer-private-5g-in-europa-ausgezeichnet"
+    },
+    {
+      "id": "off-008",
+      "name": "Ericsson strategic partnership: private 5G and edge/physical AI (2026)",
+      "description": "Multi-year partnership (Feb 2026): NTT DATA as key Ericsson SI and managed services provider for private 5G as a fully managed global service; edge AI agents on Ericsson edge platforms; joint industry solutions.",
+      "services": [
+        "Integration",
+        "Support"
+      ],
+      "domains": [
+        "Resource/network",
+        "Ecosystem/partners/wholesale",
+        "Data/AI/security cross-cutting"
+      ],
+      "url": "https://www.nttdata.com/en-us/news/2026/ntt-data-and-ericsson-team-up-to-scale-private-5g-and-physical-ai"
+    },
+    {
+      "id": "off-009",
+      "name": "Mavenir partnership: Open RAN / cloud-native 5G integration",
+      "description": "Global collaboration (Sep 2021) combining Mavenir Open vRAN and converged packet core with NTT DATA worldwide integration services; prior joint cloud-native 5G SA campus network in Germany.",
+      "services": [
+        "Integration"
+      ],
+      "domains": [
+        "Resource/network"
+      ],
+      "url": "https://www.mavenir.com/?p=30213"
+    },
+    {
+      "id": "off-010",
+      "name": "Agentic AI network alarm management (with NVIDIA)",
+      "description": "End-to-end OSS fault-management solution using LLMs on NVIDIA AI Enterprise/NIM for alarm correlation, root cause analysis, recommendations and auto-ticketing (June 2025).",
+      "services": [
+        "Build"
+      ],
+      "domains": [
+        "Resource/network",
+        "Service",
+        "Data/AI/security cross-cutting"
+      ],
+      "url": "https://www.nttdata.com/en-ae/insights/blog/agentic-ai-ntt-data-uses-the-power-of-nvidia-to-transform-telco-networks"
+    },
+    {
+      "id": "off-011",
+      "name": "ServiceNow partnership incl. Telecom/Media Service Management and Network Inventory",
+      "description": "ServiceNow Elite (consulting & implementation, reseller) partner with a Telecommunication and Media Service Management suite certification and 6 Telecommunications Network Inventory delivery accreditations.",
+      "services": [
+        "Build",
+        "Integration",
+        "Support"
+      ],
+      "domains": [
+        "Service",
+        "Resource/network",
+        "Customer"
+      ],
+      "url": "https://www.servicenow.com/uk/partners/partner-finder/ntt-data-corp.html"
+    },
+    {
+      "id": "off-012",
+      "name": "Salesforce practice (Data Cloud, Marketing Cloud for telco B2B)",
+      "description": "Salesforce consulting/implementation; telco example: Vodafone Espana B2B marketing on Data Cloud + Marketing Cloud. NTT DATA recognized in Salesforce 2024 Partner Innovation Awards.",
+      "services": [
+        "Strategy",
+        "Build",
+        "Support"
+      ],
+      "domains": [
+        "Market",
+        "Sales",
+        "Customer"
+      ],
+      "url": "https://www.nttdata.com/global/en/news/press-release/2024/november/ntt-data-recognized-in-salesforce-2024-partner-innovation-awards"
+    },
+    {
+      "id": "off-013",
+      "name": "Sigma Systems partnership and Digital Telco Lab (catalog-driven B/OSS)",
+      "description": "2017 strategic partnership: Sigma catalog, CPQ, order management, provisioning pre-integrated in NTT DATA's Digital Telco Lab for demos, PoCs and implementations. Older item.",
+      "services": [
+        "Integration",
+        "Build"
+      ],
+      "domains": [
+        "Product",
+        "Sales",
+        "Service"
+      ],
+      "url": "https://www.it-daily.net/shortnews/ntt-data-schliesst-strategische-partnerschaft-mit-sigma-systems"
+    },
+    {
+      "id": "off-014",
+      "name": "CloudSense partnership (CPQ / order management on Salesforce for CSPs)",
+      "description": "Partnership to deliver digital commerce/CPQ innovation for communications providers (c. 2017; older item, date per press release page).",
+      "services": [
+        "Integration"
+      ],
+      "domains": [
+        "Sales",
+        "Product"
+      ],
+      "url": "https://prnewswire.co.uk/news-releases/cloudsense-announce-partnership-with-ntt-data-to-deliver-digital-innovation-for-communications-621968653.html"
+    },
+    {
+      "id": "off-015",
+      "name": "TMT UK&I full-stack growth enabler (OSS, 5G, AI-led services)",
+      "description": "Aug 2025 appointment of Bhushan Patel as head of TMT UK&I; positions NTT DATA as full-stack, full-service TMT partner across infrastructure, digital transformation and sector solutions.",
+      "services": [
+        "Strategy",
+        "Build",
+        "Support"
+      ],
+      "domains": [
+        "Resource/network",
+        "Data/AI/security cross-cutting"
+      ],
+      "url": "https://btw.media/en/ntt-data-appoints-bhushan-patel-as-head-of-tmt-offering"
+    },
+    {
+      "id": "off-016",
+      "name": "NTT DATA Italia Telco & Media (cloud, edge, AI for Italian telcos)",
+      "description": "Opinion piece (Nov 2025) by Head of Telco & Media NTT DATA Italia positioning NTT DATA as strategic partner for Italian telcos from network to customer care.",
+      "services": [
+        "Strategy",
+        "Build"
+      ],
+      "domains": [
+        "Resource/network",
+        "Customer",
+        "Data/AI/security cross-cutting"
+      ],
+      "url": "https://www.corrierecomunicazioni.it/?p=327144"
+    }
+  ],
+  "validation": {
+    "date": "2026-10-23",
+    "removed": [
+      {
+        "id": "ref-024",
+        "title": "Vivo Telco Cloud programme PMO and integration (with VMware)",
+        "reason": "Sources name only 'NTT', not NTT DATA."
+      }
+    ],
+    "corrected": [
+      "ref-006",
+      "ref-010",
+      "ref-013",
+      "ref-014",
+      "ref-016",
+      "ref-019",
+      "ref-020",
+      "ref-025"
+    ],
+    "added": [
+      "ref-026",
+      "ref-027",
+      "ref-028",
+      "ref-029",
+      "ref-030",
+      "ref-031",
+      "ref-032",
+      "ref-033",
+      "ref-034",
+      "ref-035",
+      "ref-036",
+      "ref-037",
+      "ref-038",
+      "ref-039",
+      "ref-040",
+      "ref-041"
+    ]
+  },
+  "industries": [
+    "Telecommunications",
+    "Banking",
+    "Insurance",
+    "Retail",
+    "Energy & Utilities",
+    "Airlines & Travel",
+    "Automotive",
+    "Healthcare",
+    "Public sector",
+    "Media",
+    "Media (pay TV)",
+    "Satellite communications"
+  ]
+}
